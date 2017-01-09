@@ -1,0 +1,12 @@
+				Lasso	Ridge	
+budget			0.1	   0.09	    
+imdb_rating		0.0	   0.04	    
+metascore		0.13	0.11	
+opening_weekend	1.0	    1.0	    
+popularity		0.01	0.0	    
+screens			0.05	0.04	
+tomatoMeter		0.11	0.16	
+tomatoRating	0.22	0.35	
+userMeter		0.06	0.08	
+userrating		0.0	    0.02	
+userreviews		0.11	0.1	    

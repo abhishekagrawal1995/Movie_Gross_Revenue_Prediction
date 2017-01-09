@@ -1,0 +1,175 @@
+1.
+Box Office revenue prediction can affect decisions made by producers and investors.
+Some techniques offer pre-release revenue estimate.
+
+Insights
+Features : MPAA,release date,movie genre
+
+Release date maybe be imp., high-gross films in winter(christmas)
+
+Goal
+The goal of this project is to develop a
+computational model for predicting box office revenues
+based on public data for movies extracted from popular
+online movie databases
+
+Task:
+Did the discrete revenue prediction task
+Used Two Models:
+i)Linear classifier with softmax function
+ii)Like a two layer neural network with tanh activation function
+
+I created a set of features meant to
+encapsulate certain graphical properties extracted from
+actor-actor, actor-movie, and movie-movie relationships.
+
+Used Features : All relationships and metadata both
+
+OMDB.py ---- use to collect data from OMDB
+
+2.Various Features:
+
+i)Genre,
+ii)MPAA,
+iii)Origin country of the movie, classified as U.S., English-speaking (but not U.S.),
+or non-English-speaking,
+iv)Production budget of the film,
+v)Measure "Star Power" ,
+The first is the number of actors or actresses appearing in the movie who were listed in Entertainment Weekly’s lists of
+the 25 Best Actors and the 25 Best Actresses  of year.
+The second is the number of actors or actresses appearing in the movie
+who were among the top 20 actors and top 20 actresses in average box office gross
+per movie in their careers, according to The Movie Times web site. ,
+
+vi)Released Before a holiday weekend
+
+vii)Movie was a sequel
+
+viii)Number of screens for first weekend
+
+ix)Gross revenue of first weekeend
+
+x) Rating of movie
+
+xi)interested in nominations and wins for movies that are still in release at the time
+of the nominations.
+
+Prior to Release
+Genre v Revene (Less in comedy movies)
+MPAA Rating vs Revenue
+becomes more “mature” from G to PG to PG-13 to R, more movies are made, typically making less money
+
+Less G and PG films (narrower market)
+PG-13 and R films larger potential audience. 
+PG-13 rating is quite desirable, as it can pull in both adults and children, and excludes virtually no one.
+
+Model features : Genre, MPAA rating, Number of best actors, Number of top dollar actors, and whether or not the movie was a Summer release
+
+After 1st Weekend Release
+
+It is on the strength of the opening weekend of general release that all major
+decisions pertaining to a film’s ultimate financial destiny are made.
+
+Movie theater owners often make the decision to
+keep a film running based on the strength of its opening weekend.
+
+While the logged first weekend gross is highly correlated with logged total
+domestic gross (r = .93), it is apparent that the strength of the relationship is different for
+movies with lower grosses versus movies with higher grosses.
+
+A model using Genre, Logged first weekend gross, and Logged number of
+opening screens as predictors apparently fits the data very well.
+
+Movies will be separated into two groups: those that open on 10 screens or less (116 films), and those
+that open on more than 10 screens (192 films) (the number of opening screens was
+unavailable for three films).
+
+Ocsar Effect?
+Nomination effect on both <10  and >10 ones.
+Not on total Gross.
+
+
+Foreign Gross?
+Instead of using first U.K. weekend gross, we will
+use total domestic (U.S.) gross as the “leading” predictor of U.K. gross
+
+3.Neural Network:
+
+Our study falls into the category of quantitative
+models for model type classification, and into the category of before the initial release in timing of the forecast
+classification.
+
+Features Used : 
+Independent variable name   No. of values  Possible values
+MPAA Rating 5 G, PG, PG-13, R, NR
+Competition 3 High, medium, low
+Star value 3 High, medium, low
+Genre 10 Sci-Fi, historic epic drama, modern
+drama, politically related, thriller,
+horror, comedy, cartoon, action,
+documentary
+Special effects 3 High, medium, low
+Sequel 1 Yes, no
+Number of
+screens   1 Positive integer
+
+We represented the number of screens a
+movie is scheduled to be shown at its opening with a
+continuous variable.
+
+Since neural networks can handle a
+mix of continuous and discrete values in both input and
+output layers, we chose to use this variable as the only
+continuous variable in the model. 
+
+
+2 Hidden Layer Neural Network
+In both
+hidden layers, sigmoid transfer functions were utilized.
+
+In our case, we have two different hit rates: the exact
+(bingo) hit rate (only counts the correct classifications to the
+exact same class) and the within 1 class (1-Away) hit rate.
+
+Other Models:
+Discriminant Analysis,Multiple Logistic Regression,CART
+
+Senstivity Analysis
+According to the sensitivity results, the major contributors
+to the prediction of the success of a motion picture
+are number of screens, high technical effects and high star
+value.
+
+4.Determinants of the revenue system
+
+Study The literature Review
+Used Data from ROtten Tomotaoes:
+FBOXOFFICEi = B0 + B1DBOXOFFICEi + B2ACTIONi + B3CHILDRENi +
+B4RESTRICTEDi + B5SEQUELi + B6CRITICi + B7AWARDi + B8BUDGETi + ui,
+
+5.
+
+6.
+
+7.
+https://www.academia.edu/7763644/Predicting_Movie_Success_Based_on_IMDB_Data
+
+Calicut
+
+8.
+
+
+
+
+Animation,
+Action,
+Adventure,
+Horror,
+Family,
+Drama,
+Biography,
+Comedy,
+Sci-Fi,
+Crime,
+Mystery,
+Documentary

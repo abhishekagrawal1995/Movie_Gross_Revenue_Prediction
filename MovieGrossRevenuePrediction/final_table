@@ -1,0 +1,85 @@
+MAPE
+
+TextRegression:
+All movies: 116%
+
+Screens:
+All: 65.09%
+
+LinearRegression : 
+
+All movies taken together = 110 %      (Report : 130%)
+
+Split on the Basis of Genre:
+Action 46.4581003367
+Adventure 49.1818700395
+Animation 36.6934098467
+Comedy 50.2670674593
+Crime 80.9538581667
+Horror 23.4735682631
+Documentary 42.5710845795
+Biography 95.3584277919
+Drama 118.062908279
+Romance 108.414292943
+Sci-Fi 24.2077060255
+Thriller 47.1766514391
+Family 39.2216833289
+Fantasy 47.9420702299
+History 62.3837978651
+Mystery 49.8927344039
+Sport 42.5598926168
+Music 60.7826239104
+
+
+Multi-Genre :  53.9665188342 (400)
+
+
+Split on the Basis of Rating:
+All : 34.185754881 (400)
+High:42.617557661 (244)
+Low:24.2520805803 (156)
+
+
+
+Split on the Basis of Screens:
+All:39.9272411954(400)                
+High:26.968695703 (210)                Report: (37.6 %)
+Low:127.321302562 (190)					Report: (262 %)
+
+
+Screens: (Mean = 1835)
+
+
+Neighbours  = 50
+Split on the Basis Of Rating:
+
+
+Local Linear Regression:
+All:32.47(400)
+High:41.38(244)
+Low:23.21(156)
+
+Local Decision Tree Regressor:
+All:23.78(400)
+High:29.17(244)
+Low:17.04(156)
+
+
+Split on the Basis of Screens:
+Local Linear Regression:
+All: 37.9631(400)
+High:18.6036(210)
+Low:84.9453431301(190)
+
+Local Decision Tree Regressor:
+All:25.7723956866(400)
+High:11.8016641984(210)
+Low:50.6171746535(190)
+
+
+Combined:
+Overall:  24.76
+
+if High Screens: Use High Screen Decision Tree  11.801
+If low Screesn: Check Rating   28.57''
+

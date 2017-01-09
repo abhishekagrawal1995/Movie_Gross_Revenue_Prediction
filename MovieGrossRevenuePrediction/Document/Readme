@@ -1,0 +1,31 @@
+Software to install:
+Netbeans
+
+First Install:
+Python 2.7
+
+Python Libraries Required to run the code :
+numpy
+matplotlib
+pandas
+sklearn
+json
+math
+
+Steps to follow:
+1. Import the project inside SourceCode/GUICode/python into Netbeans
+2. Set the path of python interpreter in the ProcessBuilder
+3. Set the path of python code "regression_v9_multi_wls_gui_combined.py" in ProcessBuilder
+4. Now go to python code,"regression_v9_multi_wls_gui_combined.py" Set the path of data files there.
+5. Basically , modify the PATH variable in the python code.
+6. Run the project in Netbeans
+
+Steps to use the GUI:
+1. Enter the name of the movie
+2. Select the genre of the movie
+3. Enter the required features 
+4. Click Estimate and get the result.
+
+
+
+

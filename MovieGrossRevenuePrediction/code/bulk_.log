@@ -1,0 +1,928 @@
+nohup time python -u scrape_data_v6.py 2000 1 10 > ../logs/scrape_data_v6_2000_1_10.log &
+nohup time python -u scrape_data_v6.py 2000 11 20 > ../logs/scrape_data_v6_2000_11_20.log &
+nohup time python -u scrape_data_v6.py 2000 21 30 > ../logs/scrape_data_v6_2000_21_30.log &
+nohup time python -u scrape_data_v6.py 2000 31 40 > ../logs/scrape_data_v6_2000_31_40.log &
+nohup time python -u scrape_data_v6.py 2000 41 50 > ../logs/scrape_data_v6_2000_41_50.log &
+nohup time python -u scrape_data_v6.py 2000 51 60 > ../logs/scrape_data_v6_2000_51_60.log &
+nohup time python -u scrape_data_v6.py 2000 61 70 > ../logs/scrape_data_v6_2000_61_70.log &
+nohup time python -u scrape_data_v6.py 2000 71 80 > ../logs/scrape_data_v6_2000_71_80.log &
+nohup time python -u scrape_data_v6.py 2000 81 90 > ../logs/scrape_data_v6_2000_81_90.log &
+nohup time python -u scrape_data_v6.py 2000 91 100 > ../logs/scrape_data_v6_2000_91_100.log &
+nohup time python -u scrape_data_v6.py 2000 101 110 > ../logs/scrape_data_v6_2000_101_110.log &
+nohup time python -u scrape_data_v6.py 2000 111 120 > ../logs/scrape_data_v6_2000_111_120.log &
+nohup time python -u scrape_data_v6.py 2000 121 130 > ../logs/scrape_data_v6_2000_121_130.log &
+nohup time python -u scrape_data_v6.py 2000 131 140 > ../logs/scrape_data_v6_2000_131_140.log &
+nohup time python -u scrape_data_v6.py 2000 141 150 > ../logs/scrape_data_v6_2000_141_150.log &
+nohup time python -u scrape_data_v6.py 2000 151 160 > ../logs/scrape_data_v6_2000_151_160.log &
+nohup time python -u scrape_data_v6.py 2000 161 170 > ../logs/scrape_data_v6_2000_161_170.log &
+nohup time python -u scrape_data_v6.py 2000 171 180 > ../logs/scrape_data_v6_2000_171_180.log &
+nohup time python -u scrape_data_v6.py 2000 181 190 > ../logs/scrape_data_v6_2000_181_190.log &
+5.75user 0.13system 1:22.68elapsed 7%CPU (0avgtext+0avgdata 60736maxresident)k
+8inputs+32outputs (0major+17258minor)pagefaults 0swaps
+5.90user 0.14system 1:24.16elapsed 7%CPU (0avgtext+0avgdata 63504maxresident)k
+0inputs+32outputs (0major+17035minor)pagefaults 0swaps
+6.32user 0.12system 1:24.84elapsed 7%CPU (0avgtext+0avgdata 59412maxresident)k
+0inputs+32outputs (0major+16301minor)pagefaults 0swaps
+5.18user 0.16system 1:25.45elapsed 6%CPU (0avgtext+0avgdata 63124maxresident)k
+0inputs+32outputs (0major+17048minor)pagefaults 0swaps
+5.88user 0.11system 1:25.87elapsed 6%CPU (0avgtext+0avgdata 63156maxresident)k
+0inputs+32outputs (0major+16887minor)pagefaults 0swaps
+5.82user 0.16system 1:26.67elapsed 6%CPU (0avgtext+0avgdata 63152maxresident)k
+0inputs+32outputs (0major+16568minor)pagefaults 0swaps
+6.42user 0.16system 1:26.87elapsed 7%CPU (0avgtext+0avgdata 61736maxresident)k
+0inputs+40outputs (0major+17396minor)pagefaults 0swaps
+5.56user 0.11system 1:27.45elapsed 6%CPU (0avgtext+0avgdata 54024maxresident)k
+0inputs+32outputs (0major+15111minor)pagefaults 0swaps
+5.89user 0.08system 1:27.53elapsed 6%CPU (0avgtext+0avgdata 63340maxresident)k
+0inputs+32outputs (0major+16627minor)pagefaults 0swaps
+6.10user 0.12system 1:29.72elapsed 6%CPU (0avgtext+0avgdata 59200maxresident)k
+0inputs+32outputs (0major+16231minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2001 1 10 > ../logs/scrape_data_v6_2001_1_10.log &
+nohup time python -u scrape_data_v6.py 2001 11 20 > ../logs/scrape_data_v6_2001_11_20.log &
+nohup time python -u scrape_data_v6.py 2001 21 30 > ../logs/scrape_data_v6_2001_21_30.log &
+nohup time python -u scrape_data_v6.py 2001 31 40 > ../logs/scrape_data_v6_2001_31_40.log &
+nohup time python -u scrape_data_v6.py 2001 41 50 > ../logs/scrape_data_v6_2001_41_50.log &
+nohup time python -u scrape_data_v6.py 2001 51 60 > ../logs/scrape_data_v6_2001_51_60.log &
+nohup time python -u scrape_data_v6.py 2001 61 70 > ../logs/scrape_data_v6_2001_61_70.log &
+nohup time python -u scrape_data_v6.py 2001 71 80 > ../logs/scrape_data_v6_2001_71_80.log &
+nohup time python -u scrape_data_v6.py 2001 81 90 > ../logs/scrape_data_v6_2001_81_90.log &
+nohup time python -u scrape_data_v6.py 2001 91 100 > ../logs/scrape_data_v6_2001_91_100.log &
+nohup time python -u scrape_data_v6.py 2001 101 110 > ../logs/scrape_data_v6_2001_101_110.log &
+nohup time python -u scrape_data_v6.py 2001 111 120 > ../logs/scrape_data_v6_2001_111_120.log &
+nohup time python -u scrape_data_v6.py 2001 121 130 > ../logs/scrape_data_v6_2001_121_130.log &
+nohup time python -u scrape_data_v6.py 2001 131 140 > ../logs/scrape_data_v6_2001_131_140.log &
+nohup time python -u scrape_data_v6.py 2001 141 150 > ../logs/scrape_data_v6_2001_141_150.log &
+nohup time python -u scrape_data_v6.py 2001 151 160 > ../logs/scrape_data_v6_2001_151_160.log &
+nohup time python -u scrape_data_v6.py 2001 161 170 > ../logs/scrape_data_v6_2001_161_170.log &
+nohup time python -u scrape_data_v6.py 2001 171 180 > ../logs/scrape_data_v6_2001_171_180.log &
+nohup time python -u scrape_data_v6.py 2001 181 190 > ../logs/scrape_data_v6_2001_181_190.log &
+6.26user 0.16system 1:31.50elapsed 7%CPU (0avgtext+0avgdata 63300maxresident)k
+0inputs+32outputs (0major+24160minor)pagefaults 0swaps
+5.58user 0.11system 1:31.71elapsed 6%CPU (0avgtext+0avgdata 59076maxresident)k
+0inputs+32outputs (0major+16715minor)pagefaults 0swaps
+6.26user 0.12system 1:31.73elapsed 6%CPU (0avgtext+0avgdata 59004maxresident)k
+0inputs+32outputs (0major+16711minor)pagefaults 0swaps
+5.62user 0.07system 1:32.28elapsed 6%CPU (0avgtext+0avgdata 63076maxresident)k
+0inputs+32outputs (0major+16360minor)pagefaults 0swaps
+5.64user 0.17system 1:34.36elapsed 6%CPU (0avgtext+0avgdata 59928maxresident)k
+0inputs+32outputs (0major+16879minor)pagefaults 0swaps
+5.88user 0.14system 1:34.70elapsed 6%CPU (0avgtext+0avgdata 63068maxresident)k
+0inputs+32outputs (0major+16749minor)pagefaults 0swaps
+5.49user 0.13system 1:35.24elapsed 5%CPU (0avgtext+0avgdata 63176maxresident)k
+0inputs+32outputs (0major+16552minor)pagefaults 0swaps
+5.87user 0.11system 1:36.20elapsed 6%CPU (0avgtext+0avgdata 58716maxresident)k
+0inputs+32outputs (0major+16536minor)pagefaults 0swaps
+6.50user 0.16system 1:39.26elapsed 6%CPU (0avgtext+0avgdata 65288maxresident)k
+0inputs+32outputs (0major+18261minor)pagefaults 0swaps
+5.93user 0.10system 1:23.13elapsed 7%CPU (0avgtext+0avgdata 57664maxresident)k
+0inputs+48outputs (0major+16252minor)pagefaults 0swaps
+5.48user 0.14system 1:24.71elapsed 6%CPU (0avgtext+0avgdata 62956maxresident)k
+0inputs+40outputs (0major+16609minor)pagefaults 0swaps
+5.27user 0.16system 1:29.55elapsed 6%CPU (0avgtext+0avgdata 54120maxresident)k
+8inputs+40outputs (0major+15648minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2002 1 10 > ../logs/scrape_data_v6_2002_1_10.log &
+nohup time python -u scrape_data_v6.py 2002 11 20 > ../logs/scrape_data_v6_2002_11_20.log &
+nohup time python -u scrape_data_v6.py 2002 21 30 > ../logs/scrape_data_v6_2002_21_30.log &
+nohup time python -u scrape_data_v6.py 2002 31 40 > ../logs/scrape_data_v6_2002_31_40.log &
+nohup time python -u scrape_data_v6.py 2002 41 50 > ../logs/scrape_data_v6_2002_41_50.log &
+nohup time python -u scrape_data_v6.py 2002 51 60 > ../logs/scrape_data_v6_2002_51_60.log &
+nohup time python -u scrape_data_v6.py 2002 61 70 > ../logs/scrape_data_v6_2002_61_70.log &
+nohup time python -u scrape_data_v6.py 2002 71 80 > ../logs/scrape_data_v6_2002_71_80.log &
+nohup time python -u scrape_data_v6.py 2002 81 90 > ../logs/scrape_data_v6_2002_81_90.log &
+nohup time python -u scrape_data_v6.py 2002 91 100 > ../logs/scrape_data_v6_2002_91_100.log &
+nohup time python -u scrape_data_v6.py 2002 101 110 > ../logs/scrape_data_v6_2002_101_110.log &
+nohup time python -u scrape_data_v6.py 2002 111 120 > ../logs/scrape_data_v6_2002_111_120.log &
+nohup time python -u scrape_data_v6.py 2002 121 130 > ../logs/scrape_data_v6_2002_121_130.log &
+nohup time python -u scrape_data_v6.py 2002 131 140 > ../logs/scrape_data_v6_2002_131_140.log &
+nohup time python -u scrape_data_v6.py 2002 141 150 > ../logs/scrape_data_v6_2002_141_150.log &
+nohup time python -u scrape_data_v6.py 2002 151 160 > ../logs/scrape_data_v6_2002_151_160.log &
+nohup time python -u scrape_data_v6.py 2002 161 170 > ../logs/scrape_data_v6_2002_161_170.log &
+nohup time python -u scrape_data_v6.py 2002 171 180 > ../logs/scrape_data_v6_2002_171_180.log &
+nohup time python -u scrape_data_v6.py 2002 181 190 > ../logs/scrape_data_v6_2002_181_190.log &
+5.46user 0.10system 1:31.91elapsed 6%CPU (0avgtext+0avgdata 61184maxresident)k
+0inputs+48outputs (0major+16814minor)pagefaults 0swaps
+5.92user 0.08system 1:32.14elapsed 6%CPU (0avgtext+0avgdata 59864maxresident)k
+0inputs+48outputs (0major+17015minor)pagefaults 0swaps
+5.17user 0.13system 1:31.90elapsed 5%CPU (0avgtext+0avgdata 63252maxresident)k
+0inputs+40outputs (0major+16880minor)pagefaults 0swaps
+5.94user 0.10system 1:32.40elapsed 6%CPU (0avgtext+0avgdata 63452maxresident)k
+0inputs+48outputs (0major+17258minor)pagefaults 0swaps
+6.13user 0.16system 1:32.29elapsed 6%CPU (0avgtext+0avgdata 61444maxresident)k
+0inputs+40outputs (0major+16598minor)pagefaults 0swaps
+5.74user 0.10system 1:32.37elapsed 6%CPU (0avgtext+0avgdata 59248maxresident)k
+0inputs+48outputs (0major+16878minor)pagefaults 0swaps
+5.70user 0.11system 1:32.50elapsed 6%CPU (0avgtext+0avgdata 63336maxresident)k
+0inputs+40outputs (0major+17721minor)pagefaults 0swaps
+6.32user 0.10system 1:34.90elapsed 6%CPU (0avgtext+0avgdata 63272maxresident)k
+0inputs+48outputs (0major+16713minor)pagefaults 0swaps
+5.68user 0.12system 1:35.35elapsed 6%CPU (0avgtext+0avgdata 63452maxresident)k
+0inputs+48outputs (0major+16958minor)pagefaults 0swaps
+5.54user 0.15system 1:35.70elapsed 5%CPU (0avgtext+0avgdata 63032maxresident)k
+0inputs+48outputs (0major+17888minor)pagefaults 0swaps
+5.68user 0.13system 1:35.76elapsed 6%CPU (0avgtext+0avgdata 63324maxresident)k
+0inputs+48outputs (0major+17135minor)pagefaults 0swaps
+6.15user 0.10system 1:35.87elapsed 6%CPU (0avgtext+0avgdata 61820maxresident)k
+0inputs+48outputs (0major+17787minor)pagefaults 0swaps
+6.09user 0.10system 1:37.26elapsed 6%CPU (0avgtext+0avgdata 63016maxresident)k
+0inputs+40outputs (0major+18010minor)pagefaults 0swaps
+5.86user 0.14system 1:38.38elapsed 6%CPU (0avgtext+0avgdata 62096maxresident)k
+0inputs+40outputs (0major+21594minor)pagefaults 0swaps
+5.52user 0.14system 1:41.90elapsed 5%CPU (0avgtext+0avgdata 62176maxresident)k
+0inputs+48outputs (0major+16594minor)pagefaults 0swaps
+6.08user 0.12system 1:42.12elapsed 6%CPU (0avgtext+0avgdata 60120maxresident)k
+96inputs+56outputs (2major+17813minor)pagefaults 0swaps
+5.59user 0.15system 1:26.41elapsed 6%CPU (0avgtext+0avgdata 59208maxresident)k
+0inputs+32outputs (0major+16682minor)pagefaults 0swaps
+5.86user 0.14system 1:27.12elapsed 6%CPU (0avgtext+0avgdata 63096maxresident)k
+0inputs+32outputs (0major+17306minor)pagefaults 0swaps
+6.17user 0.14system 1:27.86elapsed 7%CPU (0avgtext+0avgdata 63028maxresident)k
+0inputs+32outputs (0major+17193minor)pagefaults 0swaps
+6.09user 0.11system 1:29.42elapsed 6%CPU (0avgtext+0avgdata 63284maxresident)k
+0inputs+32outputs (0major+16575minor)pagefaults 0swaps
+5.69user 0.18system 1:29.55elapsed 6%CPU (0avgtext+0avgdata 58064maxresident)k
+0inputs+32outputs (0major+16793minor)pagefaults 0swaps
+6.23user 0.16system 1:29.54elapsed 7%CPU (0avgtext+0avgdata 63204maxresident)k
+0inputs+32outputs (0major+16936minor)pagefaults 0swaps
+5.71user 0.12system 1:30.11elapsed 6%CPU (0avgtext+0avgdata 63536maxresident)k
+0inputs+32outputs (0major+17555minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2003 1 10 > ../logs/scrape_data_v6_2003_1_10.log &
+nohup time python -u scrape_data_v6.py 2003 11 20 > ../logs/scrape_data_v6_2003_11_20.log &
+nohup time python -u scrape_data_v6.py 2003 21 30 > ../logs/scrape_data_v6_2003_21_30.log &
+nohup time python -u scrape_data_v6.py 2003 31 40 > ../logs/scrape_data_v6_2003_31_40.log &
+nohup time python -u scrape_data_v6.py 2003 41 50 > ../logs/scrape_data_v6_2003_41_50.log &
+nohup time python -u scrape_data_v6.py 2003 51 60 > ../logs/scrape_data_v6_2003_51_60.log &
+nohup time python -u scrape_data_v6.py 2003 61 70 > ../logs/scrape_data_v6_2003_61_70.log &
+nohup time python -u scrape_data_v6.py 2003 71 80 > ../logs/scrape_data_v6_2003_71_80.log &
+nohup time python -u scrape_data_v6.py 2003 81 90 > ../logs/scrape_data_v6_2003_81_90.log &
+nohup time python -u scrape_data_v6.py 2003 91 100 > ../logs/scrape_data_v6_2003_91_100.log &
+nohup time python -u scrape_data_v6.py 2003 101 110 > ../logs/scrape_data_v6_2003_101_110.log &
+nohup time python -u scrape_data_v6.py 2003 111 120 > ../logs/scrape_data_v6_2003_111_120.log &
+nohup time python -u scrape_data_v6.py 2003 121 130 > ../logs/scrape_data_v6_2003_121_130.log &
+nohup time python -u scrape_data_v6.py 2003 131 140 > ../logs/scrape_data_v6_2003_131_140.log &
+nohup time python -u scrape_data_v6.py 2003 141 150 > ../logs/scrape_data_v6_2003_141_150.log &
+nohup time python -u scrape_data_v6.py 2003 151 160 > ../logs/scrape_data_v6_2003_151_160.log &
+nohup time python -u scrape_data_v6.py 2003 161 170 > ../logs/scrape_data_v6_2003_161_170.log &
+nohup time python -u scrape_data_v6.py 2003 171 180 > ../logs/scrape_data_v6_2003_171_180.log &
+nohup time python -u scrape_data_v6.py 2003 181 190 > ../logs/scrape_data_v6_2003_181_190.log &
+6.53user 0.13system 1:31.69elapsed 7%CPU (0avgtext+0avgdata 56204maxresident)k
+0inputs+32outputs (0major+15602minor)pagefaults 0swaps
+5.51user 0.18system 1:31.70elapsed 6%CPU (0avgtext+0avgdata 50580maxresident)k
+0inputs+32outputs (0major+14340minor)pagefaults 0swaps
+5.90user 0.13system 1:31.95elapsed 6%CPU (0avgtext+0avgdata 58324maxresident)k
+0inputs+32outputs (0major+16933minor)pagefaults 0swaps
+6.28user 0.12system 1:34.73elapsed 6%CPU (0avgtext+0avgdata 63660maxresident)k
+0inputs+32outputs (0major+17643minor)pagefaults 0swaps
+6.64user 0.12system 1:34.86elapsed 7%CPU (0avgtext+0avgdata 57280maxresident)k
+0inputs+32outputs (0major+16584minor)pagefaults 0swaps
+6.22user 0.14system 1:35.37elapsed 6%CPU (0avgtext+0avgdata 60924maxresident)k
+0inputs+32outputs (0major+16788minor)pagefaults 0swaps
+7.10user 0.12system 1:35.56elapsed 7%CPU (0avgtext+0avgdata 59220maxresident)k
+0inputs+32outputs (0major+17059minor)pagefaults 0swaps
+6.35user 0.14system 1:36.53elapsed 6%CPU (0avgtext+0avgdata 62420maxresident)k
+0inputs+40outputs (0major+18039minor)pagefaults 0swaps
+6.76user 0.09system 1:37.57elapsed 7%CPU (0avgtext+0avgdata 61844maxresident)k
+0inputs+32outputs (0major+17478minor)pagefaults 0swaps
+6.04user 0.11system 1:37.63elapsed 6%CPU (0avgtext+0avgdata 56968maxresident)k
+0inputs+32outputs (0major+16417minor)pagefaults 0swaps
+7.40user 0.16system 1:39.35elapsed 7%CPU (0avgtext+0avgdata 62368maxresident)k
+0inputs+32outputs (0major+17373minor)pagefaults 0swaps
+6.91user 0.14system 1:42.72elapsed 6%CPU (0avgtext+0avgdata 61808maxresident)k
+0inputs+32outputs (0major+17015minor)pagefaults 0swaps
+5.89user 0.14system 1:24.81elapsed 7%CPU (0avgtext+0avgdata 61328maxresident)k
+0inputs+40outputs (0major+15987minor)pagefaults 0swaps
+5.42user 0.17system 1:26.42elapsed 6%CPU (0avgtext+0avgdata 63472maxresident)k
+0inputs+40outputs (0major+17254minor)pagefaults 0swaps
+6.19user 0.10system 1:27.25elapsed 7%CPU (0avgtext+0avgdata 63264maxresident)k
+0inputs+40outputs (0major+17552minor)pagefaults 0swaps
+6.34user 0.19system 1:28.12elapsed 7%CPU (0avgtext+0avgdata 60504maxresident)k
+0inputs+40outputs (0major+16615minor)pagefaults 0swaps
+5.82user 0.16system 1:28.31elapsed 6%CPU (0avgtext+0avgdata 58324maxresident)k
+0inputs+48outputs (0major+17009minor)pagefaults 0swaps
+6.44user 0.13system 1:29.22elapsed 7%CPU (0avgtext+0avgdata 57448maxresident)k
+0inputs+40outputs (0major+16064minor)pagefaults 0swaps
+6.72user 0.13system 1:29.59elapsed 7%CPU (0avgtext+0avgdata 61868maxresident)k
+0inputs+48outputs (0major+17408minor)pagefaults 0swaps
+6.48user 0.11system 1:29.72elapsed 7%CPU (0avgtext+0avgdata 63116maxresident)k
+0inputs+40outputs (0major+16657minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2004 1 10 > ../logs/scrape_data_v6_2004_1_10.log &
+nohup time python -u scrape_data_v6.py 2004 11 20 > ../logs/scrape_data_v6_2004_11_20.log &
+nohup time python -u scrape_data_v6.py 2004 21 30 > ../logs/scrape_data_v6_2004_21_30.log &
+nohup time python -u scrape_data_v6.py 2004 31 40 > ../logs/scrape_data_v6_2004_31_40.log &
+nohup time python -u scrape_data_v6.py 2004 41 50 > ../logs/scrape_data_v6_2004_41_50.log &
+nohup time python -u scrape_data_v6.py 2004 51 60 > ../logs/scrape_data_v6_2004_51_60.log &
+nohup time python -u scrape_data_v6.py 2004 61 70 > ../logs/scrape_data_v6_2004_61_70.log &
+nohup time python -u scrape_data_v6.py 2004 71 80 > ../logs/scrape_data_v6_2004_71_80.log &
+nohup time python -u scrape_data_v6.py 2004 81 90 > ../logs/scrape_data_v6_2004_81_90.log &
+nohup time python -u scrape_data_v6.py 2004 91 100 > ../logs/scrape_data_v6_2004_91_100.log &
+nohup time python -u scrape_data_v6.py 2004 101 110 > ../logs/scrape_data_v6_2004_101_110.log &
+5.91user 0.10system 1:30.39elapsed 6%CPU (0avgtext+0avgdata 63136maxresident)k
+0inputs+40outputs (0major+16558minor)pagefaults 0swaps
+nohup time python -u scrape_data_v6.py 2004 111 120 > ../logs/scrape_data_v6_2004_111_120.log &
+nohup time python -u scrape_data_v6.py 2004 121 130 > ../logs/scrape_data_v6_2004_121_130.log &
+nohup time python -u scrape_data_v6.py 2004 131 140 > ../logs/scrape_data_v6_2004_131_140.log &
+nohup time python -u scrape_data_v6.py 2004 141 150 > ../logs/scrape_data_v6_2004_141_150.log &
+nohup time python -u scrape_data_v6.py 2004 151 160 > ../logs/scrape_data_v6_2004_151_160.log &
+6.20user 0.15system 1:30.38elapsed 7%CPU (0avgtext+0avgdata 63496maxresident)k
+0inputs+40outputs (0major+16467minor)pagefaults 0swaps
+nohup time python -u scrape_data_v6.py 2004 161 170 > ../logs/scrape_data_v6_2004_161_170.log &
+nohup time python -u scrape_data_v6.py 2004 171 180 > ../logs/scrape_data_v6_2004_171_180.log &
+nohup time python -u scrape_data_v6.py 2004 181 190 > ../logs/scrape_data_v6_2004_181_190.log &
+6.67user 0.12system 1:32.07elapsed 7%CPU (0avgtext+0avgdata 61056maxresident)k
+0inputs+48outputs (0major+17288minor)pagefaults 0swaps
+6.36user 0.12system 1:34.38elapsed 6%CPU (0avgtext+0avgdata 62260maxresident)k
+0inputs+48outputs (0major+17523minor)pagefaults 0swaps
+6.65user 0.20system 1:34.60elapsed 7%CPU (0avgtext+0avgdata 56312maxresident)k
+0inputs+48outputs (0major+15802minor)pagefaults 0swaps
+7.08user 0.15system 1:34.64elapsed 7%CPU (0avgtext+0avgdata 63340maxresident)k
+0inputs+48outputs (0major+17407minor)pagefaults 0swaps
+7.36user 0.15system 1:34.75elapsed 7%CPU (0avgtext+0avgdata 63516maxresident)k
+0inputs+48outputs (0major+17941minor)pagefaults 0swaps
+7.07user 0.16system 1:34.88elapsed 7%CPU (0avgtext+0avgdata 62000maxresident)k
+8inputs+48outputs (0major+17838minor)pagefaults 0swaps
+6.39user 0.13system 1:36.36elapsed 6%CPU (0avgtext+0avgdata 62952maxresident)k
+0inputs+48outputs (0major+16807minor)pagefaults 0swaps
+6.93user 0.14system 1:38.99elapsed 7%CPU (0avgtext+0avgdata 59732maxresident)k
+0inputs+56outputs (0major+17332minor)pagefaults 0swaps
+6.89user 0.17system 1:39.85elapsed 7%CPU (0avgtext+0avgdata 62216maxresident)k
+0inputs+56outputs (0major+18061minor)pagefaults 0swaps
+5.67user 0.16system 1:29.33elapsed 6%CPU (0avgtext+0avgdata 63064maxresident)k
+0inputs+40outputs (0major+17035minor)pagefaults 0swaps
+6.06user 0.11system 1:29.72elapsed 6%CPU (0avgtext+0avgdata 58632maxresident)k
+0inputs+48outputs (0major+16859minor)pagefaults 0swaps
+5.87user 0.13system 1:29.86elapsed 6%CPU (0avgtext+0avgdata 63372maxresident)k
+0inputs+40outputs (0major+16867minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2005 1 10 > ../logs/scrape_data_v6_2005_1_10.log &
+nohup time python -u scrape_data_v6.py 2005 11 20 > ../logs/scrape_data_v6_2005_11_20.log &
+nohup time python -u scrape_data_v6.py 2005 21 30 > ../logs/scrape_data_v6_2005_21_30.log &
+nohup time python -u scrape_data_v6.py 2005 31 40 > ../logs/scrape_data_v6_2005_31_40.log &
+nohup time python -u scrape_data_v6.py 2005 41 50 > ../logs/scrape_data_v6_2005_41_50.log &
+nohup time python -u scrape_data_v6.py 2005 51 60 > ../logs/scrape_data_v6_2005_51_60.log &
+nohup time python -u scrape_data_v6.py 2005 61 70 > ../logs/scrape_data_v6_2005_61_70.log &
+nohup time python -u scrape_data_v6.py 2005 71 80 > ../logs/scrape_data_v6_2005_71_80.log &
+nohup time python -u scrape_data_v6.py 2005 81 90 > ../logs/scrape_data_v6_2005_81_90.log &
+nohup time python -u scrape_data_v6.py 2005 91 100 > ../logs/scrape_data_v6_2005_91_100.log &
+nohup time python -u scrape_data_v6.py 2005 101 110 > ../logs/scrape_data_v6_2005_101_110.log &
+nohup time python -u scrape_data_v6.py 2005 111 120 > ../logs/scrape_data_v6_2005_111_120.log &
+nohup time python -u scrape_data_v6.py 2005 121 130 > ../logs/scrape_data_v6_2005_121_130.log &
+nohup time python -u scrape_data_v6.py 2005 131 140 > ../logs/scrape_data_v6_2005_131_140.log &
+nohup time python -u scrape_data_v6.py 2005 141 150 > ../logs/scrape_data_v6_2005_141_150.log &
+nohup time python -u scrape_data_v6.py 2005 151 160 > ../logs/scrape_data_v6_2005_151_160.log &
+nohup time python -u scrape_data_v6.py 2005 161 170 > ../logs/scrape_data_v6_2005_161_170.log &
+nohup time python -u scrape_data_v6.py 2005 171 180 > ../logs/scrape_data_v6_2005_171_180.log &
+nohup time python -u scrape_data_v6.py 2005 181 190 > ../logs/scrape_data_v6_2005_181_190.log &
+6.25user 0.13system 1:31.86elapsed 6%CPU (0avgtext+0avgdata 58872maxresident)k
+8inputs+48outputs (0major+16850minor)pagefaults 0swaps
+6.54user 0.11system 1:32.16elapsed 7%CPU (0avgtext+0avgdata 60920maxresident)k
+0inputs+40outputs (0major+17007minor)pagefaults 0swaps
+6.09user 0.15system 1:32.25elapsed 6%CPU (0avgtext+0avgdata 62576maxresident)k
+0inputs+40outputs (0major+16720minor)pagefaults 0swaps
+6.26user 0.14system 1:32.05elapsed 6%CPU (0avgtext+0avgdata 63368maxresident)k
+0inputs+40outputs (0major+17679minor)pagefaults 0swaps
+6.29user 0.16system 1:32.23elapsed 7%CPU (0avgtext+0avgdata 60804maxresident)k
+0inputs+40outputs (0major+16605minor)pagefaults 0swaps
+6.40user 0.14system 1:32.55elapsed 7%CPU (0avgtext+0avgdata 62216maxresident)k
+0inputs+48outputs (0major+17336minor)pagefaults 0swaps
+6.31user 0.16system 1:34.17elapsed 6%CPU (0avgtext+0avgdata 59928maxresident)k
+0inputs+40outputs (0major+17164minor)pagefaults 0swaps
+6.12user 0.14system 1:35.12elapsed 6%CPU (0avgtext+0avgdata 60480maxresident)k
+0inputs+40outputs (0major+17402minor)pagefaults 0swaps
+6.79user 0.16system 1:35.32elapsed 7%CPU (0avgtext+0avgdata 61924maxresident)k
+0inputs+32outputs (0major+17339minor)pagefaults 0swaps
+6.21user 0.12system 1:35.27elapsed 6%CPU (0avgtext+0avgdata 60848maxresident)k
+0inputs+40outputs (0major+17537minor)pagefaults 0swaps
+5.765.83user 0.12sysutseemr  1:36.040.18seylsatpesme d1:35.83 e6%lCaPpUs ed 6%CPU (0avgtext+0avgdata 63476maxresident)k
+0inputs+40outputs (0major+16511minor)pagefaults 0swaps
+(0avgtext+0avgdata 60972maxresident)k
+0inputs+40outputs (0major+17687minor)pagefaults 0swaps
+6.49user 0.17system 1:36.32elapsed 6%CPU (0avgtext+0avgdata 61328maxresident)k
+0inputs+48outputs (0major+17190minor)pagefaults 0swaps
+6.60user 0.14system 1:36.19elapsed 7%CPU (0avgtext+0avgdata 61216maxresident)k
+0inputs+40outputs (0major+16741minor)pagefaults 0swaps
+5.88user 0.17system 1:36.53elapsed 6%CPU (0avgtext+0avgdata 63120maxresident)k
+0inputs+40outputs (0major+16873minor)pagefaults 0swaps
+5.48user 0.13system 1:25.25elapsed 6%CPU (0avgtext+0avgdata 60000maxresident)k
+0inputs+32outputs (0major+16424minor)pagefaults 0swaps
+5.86user 0.12system 1:25.46elapsed 7%CPU (0avgtext+0avgdata 63592maxresident)k
+8inputs+32outputs (0major+16522minor)pagefaults 0swaps
+5.56user 0.11system 1:25.55elapsed 6%CPU (0avgtext+0avgdata 63416maxresident)k
+0inputs+32outputs (0major+16646minor)pagefaults 0swaps
+6.12user 0.15system 1:26.66elapsed 7%CPU (0avgtext+0avgdata 63240maxresident)k
+0inputs+40outputs (0major+17339minor)pagefaults 0swaps
+6.56user 0.13system 1:26.60elapsed 7%CPU (0avgtext+0avgdata 60860maxresident)k
+0inputs+32outputs (0major+16930minor)pagefaults 0swaps
+5.83user 0.14system 1:26.73elapsed 6%CPU (0avgtext+0avgdata 61752maxresident)k
+0inputs+32outputs (0major+17197minor)pagefaults 0swaps
+5.98user 0.11system 1:27.37elapsed 6%CPU (0avgtext+0avgdata 63496maxresident)k
+0inputs+32outputs (0major+16717minor)pagefaults 0swaps
+5.68user 0.13system 1:28.09elapsed 6%CPU (0avgtext+0avgdata 56860maxresident)k
+0inputs+32outputs (0major+15763minor)pagefaults 0swaps
+6.08user 0.22system 1:28.72elapsed 7%CPU (0avgtext+0avgdata 62996maxresident)k
+0inputs+32outputs (0major+23787minor)pagefaults 0swaps
+6.47user 0.13system 1:29.58elapsed 7%CPU (0avgtext+0avgdata 61280maxresident)k
+0inputs+32outputs (0major+17248minor)pagefaults 0swaps
+6.26user 0.14system 1:30.00elapsed 7%CPU (0avgtext+0avgdata 60564maxresident)k
+0inputs+32outputs (0major+16645minor)pagefaults 0swaps
+6.18user 0.14system 1:30.19elapsed 7%CPU (0avgtext+0avgdata 58932maxresident)k
+0inputs+32outputs (0major+17066minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2006 1 10 > ../logs/scrape_data_v6_2006_1_10.log &
+nohup time python -u scrape_data_v6.py 2006 11 20 > ../logs/scrape_data_v6_2006_11_20.log &
+nohup time python -u scrape_data_v6.py 2006 21 30 > ../logs/scrape_data_v6_2006_21_30.log &
+nohup time python -u scrape_data_v6.py 2006 31 40 > ../logs/scrape_data_v6_2006_31_40.log &
+nohup time python -u scrape_data_v6.py 2006 41 50 > ../logs/scrape_data_v6_2006_41_50.log &
+nohup time python -u scrape_data_v6.py 2006 51 60 > ../logs/scrape_data_v6_2006_51_60.log &
+nohup time python -u scrape_data_v6.py 2006 61 70 > ../logs/scrape_data_v6_2006_61_70.log &
+nohup time python -u scrape_data_v6.py 2006 71 80 > ../logs/scrape_data_v6_2006_71_80.log &
+nohup time python -u scrape_data_v6.py 2006 81 90 > ../logs/scrape_data_v6_2006_81_90.log &
+nohup time python -u scrape_data_v6.py 2006 91 100 > ../logs/scrape_data_v6_2006_91_100.log &
+nohup time python -u scrape_data_v6.py 2006 101 110 > ../logs/scrape_data_v6_2006_101_110.log &
+nohup time python -u scrape_data_v6.py 2006 111 120 > ../logs/scrape_data_v6_2006_111_120.log &
+nohup time python -u scrape_data_v6.py 2006 121 130 > ../logs/scrape_data_v6_2006_121_130.log &
+nohup time python -u scrape_data_v6.py 2006 131 140 > ../logs/scrape_data_v6_2006_131_140.log &
+nohup time python -u scrape_data_v6.py 2006 141 150 > ../logs/scrape_data_v6_2006_141_150.log &
+nohup time python -u scrape_data_v6.py 2006 151 160 > ../logs/scrape_data_v6_2006_151_160.log &
+nohup time python -u scrape_data_v6.py 2006 161 170 > ../logs/scrape_data_v6_2006_161_170.log &
+nohup time python -u scrape_data_v6.py 2006 171 180 > ../logs/scrape_data_v6_2006_171_180.log &
+nohup time python -u scrape_data_v6.py 2006 181 190 > ../logs/scrape_data_v6_2006_181_190.log &
+6.02user 0.10system 1:31.41elapsed 6%CPU (0avgtext+0avgdata 63304maxresident)k
+0inputs+32outputs (0major+17504minor)pagefaults 0swaps
+6.10user 0.15system 1:31.63elapsed 6%CPU (0avgtext+0avgdata 60420maxresident)k
+0inputs+32outputs (0major+17037minor)pagefaults 0swaps
+6.29user 0.13system 1:31.74elapsed 7%CPU (0avgtext+0avgdata 62996maxresident)k
+0inputs+32outputs (0major+18651minor)pagefaults 0swaps
+5.90user 0.10system 1:32.14elapsed 6%CPU (0avgtext+0avgdata 56960maxresident)k
+0inputs+32outputs (0major+16058minor)pagefaults 0swaps
+5.80user 0.15system 1:32.23elapsed 6%CPU (0avgtext+0avgdata 61816maxresident)k
+0inputs+40outputs (0major+16625minor)pagefaults 0swaps
+6.24user 0.10system 1:34.49elapsed 6%CPU (0avgtext+0avgdata 58740maxresident)k
+0inputs+32outputs (0major+16402minor)pagefaults 0swaps
+5.58user 0.16system 1:35.41elapsed 6%CPU (0avgtext+0avgdata 58200maxresident)k
+0inputs+32outputs (0major+16436minor)pagefaults 0swaps
+6.39user 0.12system 3:40.42elapsed 2%CPU (0avgtext+0avgdata 63632maxresident)k
+0inputs+40outputs (0major+16832minor)pagefaults 0swaps
+6.44user 0.19system 1:23.70elapsed 7%CPU (0avgtext+0avgdata 59952maxresident)k
+0inputs+40outputs (0major+16891minor)pagefaults 0swaps
+5.51user 0.12system 1:24.30elapsed 6%CPU (0avgtext+0avgdata 63556maxresident)k
+0inputs+48outputs (0major+17562minor)pagefaults 0swaps
+6.39user 0.09system 1:25.93elapsed 7%CPU (0avgtext+0avgdata 57108maxresident)k
+0inputs+40outputs (0major+16810minor)pagefaults 0swaps
+6.16user 0.16system 1:26.61elapsed 7%CPU (0avgtext+0avgdata 63340maxresident)k
+0inputs+48outputs (0major+16926minor)pagefaults 0swaps
+5.91user 0.15system 1:27.78elapsed 6%CPU (0avgtext+0avgdata 63364maxresident)k
+0inputs+40outputs (0major+16989minor)pagefaults 0swaps
+6.44user 0.11system 1:28.91elapsed 7%CPU (0avgtext+0avgdata 58804maxresident)k
+0inputs+48outputs (0major+16910minor)pagefaults 0swaps
+6.25user 0.15system 1:28.78elapsed 7%CPU (0avgtext+0avgdata 60964maxresident)k
+0inputs+48outputs (0major+16887minor)pagefaults 0swaps
+6.56user 0.15system 1:28.97elapsed 7%CPU (0avgtext+0avgdata 63280maxresident)k
+8inputs+48outputs (0major+17870minor)pagefaults 0swaps
+6.09user 0.14system 1:29.44elapsed 6%CPU (0avgtext+0avgdata 60692maxresident)k
+0inputs+48outputs (0major+16863minor)pagefaults 0swaps
+6.44user 0.14system 1:29.40elapsed 7%CPU (0avgtext+0avgdata 63400maxresident)k
+0inputs+48outputs (0major+17767minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2007 1 10 > ../logs/scrape_data_v6_2007_1_10.log &
+nohup time python -u scrape_data_v6.py 2007 11 20 > ../logs/scrape_data_v6_2007_11_20.log &
+nohup time python -u scrape_data_v6.py 2007 21 30 > ../logs/scrape_data_v6_2007_21_30.log &
+nohup time python -u scrape_data_v6.py 2007 31 40 > ../logs/scrape_data_v6_2007_31_40.log &
+nohup time python -u scrape_data_v6.py 2007 41 50 > ../logs/scrape_data_v6_2007_41_50.log &
+nohup time python -u scrape_data_v6.py 2007 51 60 > ../logs/scrape_data_v6_2007_51_60.log &
+nohup time python -u scrape_data_v6.py 2007 61 70 > ../logs/scrape_data_v6_2007_61_70.log &
+nohup time python -u scrape_data_v6.py 2007 71 80 > ../logs/scrape_data_v6_2007_71_80.log &
+nohup time python -u scrape_data_v6.py 2007 81 90 > ../logs/scrape_data_v6_2007_81_90.log &
+nohup time python -u scrape_data_v6.py 2007 91 100 > ../logs/scrape_data_v6_2007_91_100.log &
+nohup time python -u scrape_data_v6.py 2007 101 110 > ../logs/scrape_data_v6_2007_101_110.log &
+nohup time python -u scrape_data_v6.py 2007 111 120 > ../logs/scrape_data_v6_2007_111_120.log &
+nohup time python -u scrape_data_v6.py 2007 121 130 > ../logs/scrape_data_v6_2007_121_130.log &
+nohup time python -u scrape_data_v6.py 2007 131 140 > ../logs/scrape_data_v6_2007_131_140.log &
+nohup time python -u scrape_data_v6.py 2007 141 150 > ../logs/scrape_data_v6_2007_141_150.log &
+nohup time python -u scrape_data_v6.py 2007 151 160 > ../logs/scrape_data_v6_2007_151_160.log &
+nohup time python -u scrape_data_v6.py 2007 161 170 > ../logs/scrape_data_v6_2007_161_170.log &
+nohup time python -u scrape_data_v6.py 2007 171 180 > ../logs/scrape_data_v6_2007_171_180.log &
+nohup time python -u scrape_data_v6.py 2007 181 190 > ../logs/scrape_data_v6_2007_181_190.log &
+6.84user 0.14system 1:32.72elapsed 7%CPU (0avgtext+0avgdata 63360maxresident)k
+0inputs+48outputs (0major+17397minor)pagefaults 0swaps
+6.30user 0.13system 1:32.85elapsed 6%CPU (0avgtext+0avgdata 61020maxresident)k
+0inputs+48outputs (0major+17042minor)pagefaults 0swaps
+6.21user 0.10system 1:32.90elapsed 6%CPU (0avgtext+0avgdata 58884maxresident)k
+0inputs+56outputs (0major+16944minor)pagefaults 0swaps
+6.28user 0.16system 1:32.87elapsed 6%CPU (0avgtext+0avgdata 63176maxresident)k
+0inputs+40outputs (0major+16629minor)pagefaults 0swaps
+5.99user 0.12system 1:32.98elapsed 6%CPU (0avgtext+0avgdata 58304maxresident)k
+0inputs+40outputs (0major+16317minor)pagefaults 0swaps
+6.32user 0.16system 1:33.23elapsed 6%CPU (0avgtext+0avgdata 60940maxresident)k
+0inputs+40outputs (0major+17238minor)pagefaults 0swaps
+6.20user 0.12system 1:35.18elapsed 6%CPU (0avgtext+0avgdata 63432maxresident)k
+0inputs+40outputs (0major+16458minor)pagefaults 0swaps
+5.92user 0.16system 1:35.46elapsed 6%CPU (0avgtext+0avgdata 62328maxresident)k
+0inputs+48outputs (0major+17470minor)pagefaults 0swaps
+5.45user 0.09system 1:42.20elapsed 5%CPU (0avgtext+0avgdata 61564maxresident)k
+0inputs+48outputs (0major+16402minor)pagefaults 0swaps
+5.71user 0.14system 1:26.65elapsed 6%CPU (0avgtext+0avgdata 59088maxresident)k
+0inputs+32outputs (0major+16544minor)pagefaults 0swaps
+6.62user 0.13system 1:27.33elapsed 7%CPU (0avgtext+0avgdata 61732maxresident)k
+0inputs+32outputs (0major+16756minor)pagefaults 0swaps
+6.06user 0.12system 1:28.35elapsed 6%CPU (0avgtext+0avgdata 60696maxresident)k
+0inputs+32outputs (0major+16749minor)pagefaults 0swaps
+5.10user 0.12system 1:28.21elapsed 5%CPU (0avgtext+0avgdata 63320maxresident)k
+0inputs+32outputs (0major+17635minor)pagefaults 0swaps
+6.34user 0.12system 1:29.83elapsed 7%CPU (0avgtext+0avgdata 63348maxresident)k
+0inputs+32outputs (0major+17769minor)pagefaults 0swaps
+5.92user 0.10system 1:29.66elapsed 6%CPU (0avgtext+0avgdata 58704maxresident)k
+0inputs+32outputs (0major+17128minor)pagefaults 0swaps
+6.20user 0.15system 1:29.96elapsed 7%CPU (0avgtext+0avgdata 63588maxresident)k
+0inputs+32outputs (0major+17166minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2008 1 10 > ../logs/scrape_data_v6_2008_1_10.log &
+nohup time python -u scrape_data_v6.py 2008 11 20 > ../logs/scrape_data_v6_2008_11_20.log &
+nohup time python -u scrape_data_v6.py 2008 21 30 > ../logs/scrape_data_v6_2008_21_30.log &
+nohup time python -u scrape_data_v6.py 2008 31 40 > ../logs/scrape_data_v6_2008_31_40.log &
+nohup time python -u scrape_data_v6.py 2008 41 50 > ../logs/scrape_data_v6_2008_41_50.log &
+nohup time python -u scrape_data_v6.py 2008 51 60 > ../logs/scrape_data_v6_2008_51_60.log &
+nohup time python -u scrape_data_v6.py 2008 61 70 > ../logs/scrape_data_v6_2008_61_70.log &
+nohup time python -u scrape_data_v6.py 2008 71 80 > ../logs/scrape_data_v6_2008_71_80.log &
+nohup time python -u scrape_data_v6.py 2008 81 90 > ../logs/scrape_data_v6_2008_81_90.log &
+nohup time python -u scrape_data_v6.py 2008 91 100 > ../logs/scrape_data_v6_2008_91_100.log &
+nohup time python -u scrape_data_v6.py 2008 101 110 > ../logs/scrape_data_v6_2008_101_110.log &
+nohup time python -u scrape_data_v6.py 2008 111 120 > ../logs/scrape_data_v6_2008_111_120.log &
+nohup time python -u scrape_data_v6.py 2008 121 130 > ../logs/scrape_data_v6_2008_121_130.log &
+nohup time python -u scrape_data_v6.py 2008 131 140 > ../logs/scrape_data_v6_2008_131_140.log &
+nohup time python -u scrape_data_v6.py 2008 141 150 > ../logs/scrape_data_v6_2008_141_150.log &
+nohup time python -u scrape_data_v6.py 2008 151 160 > ../logs/scrape_data_v6_2008_151_160.log &
+nohup time python -u scrape_data_v6.py 2008 161 170 > ../logs/scrape_data_v6_2008_161_170.log &
+nohup time python -u scrape_data_v6.py 2008 171 180 > ../logs/scrape_data_v6_2008_171_180.log &
+nohup time python -u scrape_data_v6.py 2008 181 190 > ../logs/scrape_data_v6_2008_181_190.log &
+6.71user 0.10system 1:32.63elapsed 7%CPU (0avgtext+0avgdata 63196maxresident)k
+0inputs+32outputs (0major+17146minor)pagefaults 0swaps
+6.20user 0.10system 1:34.10elapsed 6%CPU (0avgtext+0avgdata 63512maxresident)k
+0inputs+32outputs (0major+17450minor)pagefaults 0swaps
+6.57user 0.11system 1:35.00elapsed 7%CPU (0avgtext+0avgdata 56420maxresident)k
+0inputs+32outputs (0major+15991minor)pagefaults 0swaps
+6.66user 0.14system 1:34.75elapsed 7%CPU (0avgtext+0avgdata 59148maxresident)k
+0inputs+32outputs (0major+16264minor)pagefaults 0swaps
+5.89user 0.12system 1:35.21elapsed 6%CPU (0avgtext+0avgdata 63716maxresident)k
+0inputs+32outputs (0major+17050minor)pagefaults 0swaps
+6.36user 0.15system 1:35.41elapsed 6%CPU (0avgtext+0avgdata 60772maxresident)k
+0inputs+32outputs (0major+17168minor)pagefaults 0swaps
+5.49user 0.22system 1:35.54elapsed 5%CPU (0avgtext+0avgdata 60924maxresident)k
+0inputs+32outputs (0major+16935minor)pagefaults 0swaps
+6.47user 0.11system 1:35.87elapsed 6%CPU (0avgtext+0avgdata 56332maxresident)k
+0inputs+32outputs (0major+16128minor)pagefaults 0swaps
+6.49user 0.11system 1:36.13elapsed 6%CPU (0avgtext+0avgdata 63620maxresident)k
+0inputs+32outputs (0major+17577minor)pagefaults 0swaps
+7.06user 0.14system 1:36.67elapsed 7%CPU (0avgtext+0avgdata 61572maxresident)k
+0inputs+40outputs (0major+17723minor)pagefaults 0swaps
+6.24user 0.16system 1:39.24elapsed 6%CPU (0avgtext+0avgdata 57600maxresident)k
+0inputs+32outputs (0major+16950minor)pagefaults 0swaps
+6.58user 0.12system 1:47.74elapsed 6%CPU (0avgtext+0avgdata 60896maxresident)k
+0inputs+32outputs (0major+16983minor)pagefaults 0swaps
+5.81user 0.12system 1:22.60elapsed 7%CPU (0avgtext+0avgdata 58232maxresident)k
+0inputs+32outputs (0major+16367minor)pagefaults 0swaps
+5.72user 0.13system 1:23.27elapsed 7%CPU (0avgtext+0avgdata 63336maxresident)k
+0inputs+32outputs (0major+16997minor)pagefaults 0swaps
+5.97user 0.12system 1:24.52elapsed 7%CPU (0avgtext+0avgdata 59340maxresident)k
+0inputs+32outputs (0major+16574minor)pagefaults 0swaps
+5.63user 0.11system 1:25.64elapsed 6%CPU (0avgtext+0avgdata 63716maxresident)k
+0inputs+32outputs (0major+17978minor)pagefaults 0swaps
+6.12user 0.16system 1:27.29elapsed 7%CPU (0avgtext+0avgdata 61036maxresident)k
+0inputs+40outputs (0major+17380minor)pagefaults 0swaps
+6.10user 0.13system 1:28.04elapsed 7%CPU (0avgtext+0avgdata 62340maxresident)k
+0inputs+48outputs (0major+17947minor)pagefaults 0swaps
+6.66user 0.12system 1:29.45elapsed 7%CPU (0avgtext+0avgdata 58288maxresident)k
+0inputs+40outputs (0major+16718minor)pagefaults 0swaps
+6.36user 0.14system 1:29.54elapsed 7%CPU (0avgtext+0avgdata 63128maxresident)k
+0inputs+40outputs (0major+16711minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2009 1 10 > ../logs/scrape_data_v6_2009_1_10.log &
+nohup time python -u scrape_data_v6.py 2009 11 20 > ../logs/scrape_data_v6_2009_11_20.log &
+nohup time python -u scrape_data_v6.py 2009 21 30 > ../logs/scrape_data_v6_2009_21_30.log &
+nohup time python -u scrape_data_v6.py 2009 31 40 > ../logs/scrape_data_v6_2009_31_40.log &
+nohup time python -u scrape_data_v6.py 2009 41 50 > ../logs/scrape_data_v6_2009_41_50.log &
+nohup time python -u scrape_data_v6.py 2009 51 60 > ../logs/scrape_data_v6_2009_51_60.log &
+nohup time python -u scrape_data_v6.py 2009 61 70 > ../logs/scrape_data_v6_2009_61_70.log &
+nohup time python -u scrape_data_v6.py 2009 71 80 > ../logs/scrape_data_v6_2009_71_80.log &
+nohup time python -u scrape_data_v6.py 2009 81 90 > ../logs/scrape_data_v6_2009_81_90.log &
+nohup time python -u scrape_data_v6.py 2009 91 100 > ../logs/scrape_data_v6_2009_91_100.log &
+nohup time python -u scrape_data_v6.py 2009 101 110 > ../logs/scrape_data_v6_2009_101_110.log &
+nohup time python -u scrape_data_v6.py 2009 111 120 > ../logs/scrape_data_v6_2009_111_120.log &
+nohup time python -u scrape_data_v6.py 2009 121 130 > ../logs/scrape_data_v6_2009_121_130.log &
+nohup time python -u scrape_data_v6.py 2009 131 140 > ../logs/scrape_data_v6_2009_131_140.log &
+nohup time python -u scrape_data_v6.py 2009 141 150 > ../logs/scrape_data_v6_2009_141_150.log &
+nohup time python -u scrape_data_v6.py 2009 151 160 > ../logs/scrape_data_v6_2009_151_160.log &
+nohup time python -u scrape_data_v6.py 2009 161 170 > ../logs/scrape_data_v6_2009_161_170.log &
+nohup time python -u scrape_data_v6.py 2009 171 180 > ../logs/scrape_data_v6_2009_171_180.log &
+nohup time python -u scrape_data_v6.py 2009 181 190 > ../logs/scrape_data_v6_2009_181_190.log &
+6.87user 0.11system 1:31.80elapsed 7%CPU (0avgtext+0avgdata 54872maxresident)k
+0inputs+48outputs (0major+15600minor)pagefaults 0swaps
+6.75user 0.13system 1:31.74elapsed 7%CPU (0avgtext+0avgdata 58772maxresident)k
+0inputs+40outputs (0major+16464minor)pagefaults 0swaps
+5.84user 0.12system 1:32.06elapsed 6%CPU (0avgtext+0avgdata 56892maxresident)k
+0inputs+40outputs (0major+16325minor)pagefaults 0swaps
+6.47user 0.15system 1:32.25elapsed 7%CPU (0avgtext+0avgdata 62048maxresident)k
+0inputs+40outputs (0major+17067minor)pagefaults 0swaps
+6.38user 0.15system 1:32.35elapsed 7%CPU (0avgtext+0avgdata 60620maxresident)k
+0inputs+40outputs (0major+17273minor)pagefaults 0swaps
+6.03user 0.14system 1:33.11elapsed 6%CPU (0avgtext+0avgdata 65432maxresident)k
+0inputs+48outputs (0major+18298minor)pagefaults 0swaps
+6.02user 0.12system 1:34.58elapsed 6%CPU (0avgtext+0avgdata 54404maxresident)k
+0inputs+40outputs (0major+14713minor)pagefaults 0swaps
+6.66user 0.17system 1:35.72elapsed 7%CPU (0avgtext+0avgdata 59340maxresident)k
+0inputs+40outputs (0major+16884minor)pagefaults 0swaps
+6.36user 0.16system 1:37.48elapsed 6%CPU (0avgtext+0avgdata 58204maxresident)k
+0inputs+40outputs (0major+16873minor)pagefaults 0swaps
+6.22user 0.11system 1:42.07elapsed 6%CPU (0avgtext+0avgdata 63536maxresident)k
+0inputs+32outputs (0major+16724minor)pagefaults 0swaps
+6.40user 0.15system 1:50.48elapsed 5%CPU (0avgtext+0avgdata 59084maxresident)k
+0inputs+32outputs (0major+16599minor)pagefaults 0swaps
+6.10user 0.10system 1:25.91elapsed 7%CPU (0avgtext+0avgdata 62260maxresident)k
+0inputs+40outputs (0major+17890minor)pagefaults 0swaps
+6.24user 0.12system 1:27.58elapsed 7%CPU (0avgtext+0avgdata 61040maxresident)k
+0inputs+40outputs (0major+16466minor)pagefaults 0swaps
+6.17user 0.14system 1:29.33elapsed 7%CPU (0avgtext+0avgdata 58320maxresident)k
+0inputs+32outputs (0major+16470minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2010 1 10 > ../logs/scrape_data_v6_2010_1_10.log &
+nohup time python -u scrape_data_v6.py 2010 11 20 > ../logs/scrape_data_v6_2010_11_20.log &
+nohup time python -u scrape_data_v6.py 2010 21 30 > ../logs/scrape_data_v6_2010_21_30.log &
+nohup time python -u scrape_data_v6.py 2010 31 40 > ../logs/scrape_data_v6_2010_31_40.log &
+nohup time python -u scrape_data_v6.py 2010 41 50 > ../logs/scrape_data_v6_2010_41_50.log &
+nohup time python -u scrape_data_v6.py 2010 51 60 > ../logs/scrape_data_v6_2010_51_60.log &
+nohup time python -u scrape_data_v6.py 2010 61 70 > ../logs/scrape_data_v6_2010_61_70.log &
+nohup time python -u scrape_data_v6.py 2010 71 80 > ../logs/scrape_data_v6_2010_71_80.log &
+nohup time python -u scrape_data_v6.py 2010 81 90 > ../logs/scrape_data_v6_2010_81_90.log &
+nohup time python -u scrape_data_v6.py 2010 91 100 > ../logs/scrape_data_v6_2010_91_100.log &
+nohup time python -u scrape_data_v6.py 2010 101 110 > ../logs/scrape_data_v6_2010_101_110.log &
+6.54user 0.13system 1:30.39elapsed 7%CPU (0avgtext+0avgdata 63548maxresident)k
+0inputs+32outputs (0major+18242minor)pagefaults 0swaps
+nohup time python -u scrape_data_v6.py 2010 111 120 > ../logs/scrape_data_v6_2010_111_120.log &
+nohup time python -u scrape_data_v6.py 2010 121 130 > ../logs/scrape_data_v6_2010_121_130.log &
+6.27user 0.15system 1:30.39elapsed 7%CPU (0avgtext+0avgdata 63468maxresident)k
+0inputs+32outputs (0major+16945minor)pagefaults 0swaps
+nohup time python -u scrape_data_v6.py 2010 131 140 > ../logs/scrape_data_v6_2010_131_140.log &
+nohup time python -u scrape_data_v6.py 2010 141 150 > ../logs/scrape_data_v6_2010_141_150.log &
+nohup time python -u scrape_data_v6.py 2010 151 160 > ../logs/scrape_data_v6_2010_151_160.log &
+nohup time python -u scrape_data_v6.py 2010 161 170 > ../logs/scrape_data_v6_2010_161_170.log &
+nohup time python -u scrape_data_v6.py 2010 171 180 > ../logs/scrape_data_v6_2010_171_180.log &
+nohup time python -u scrape_data_v6.py 2010 181 190 > ../logs/scrape_data_v6_2010_181_190.log &
+6.39user 0.14system 1:32.89elapsed 7%CPU (0avgtext+0avgdata 58852maxresident)k
+0inputs+32outputs (0major+16828minor)pagefaults 0swaps
+6.61user 0.12system 1:33.10elapsed 7%CPU (0avgtext+0avgdata 58692maxresident)k
+0inputs+32outputs (0major+16479minor)pagefaults 0swaps
+6.27user 0.14system 1:33.39elapsed 6%CPU (0avgtext+0avgdata 59696maxresident)k
+0inputs+32outputs (0major+17180minor)pagefaults 0swaps
+5.76user 0.15system 1:35.58elapsed 6%CPU (0avgtext+0avgdata 63564maxresident)k
+0inputs+32outputs (0major+17118minor)pagefaults 0swaps
+6.69user 0.15system 1:35.95elapsed 7%CPU (0avgtext+0avgdata 63420maxresident)k
+0inputs+32outputs (0major+16861minor)pagefaults 0swaps
+6.05user 0.16system 1:36.18elapsed 6%CPU (0avgtext+0avgdata 62712maxresident)k
+0inputs+32outputs (0major+17655minor)pagefaults 0swaps
+6.09user 0.15system 1:36.08elapsed 6%CPU (0avgtext+0avgdata 63288maxresident)k
+0inputs+32outputs (0major+17523minor)pagefaults 0swaps
+6.22user 0.13system 1:37.88elapsed 6%CPU (0avgtext+0avgdata 63308maxresident)k
+0inputs+32outputs (0major+17352minor)pagefaults 0swaps
+6.35user 0.14system 1:40.60elapsed 6%CPU (0avgtext+0avgdata 56756maxresident)k
+0inputs+32outputs (0major+16043minor)pagefaults 0swaps
+6.52user 0.14system 1:41.02elapsed 6%CPU (0avgtext+0avgdata 63348maxresident)k
+0inputs+32outputs (0major+17301minor)pagefaults 0swaps
+6.40user 0.13system 1:41.47elapsed 6%CPU (0avgtext+0avgdata 63692maxresident)k
+0inputs+32outputs (0major+17441minor)pagefaults 0swaps
+6.22user 0.16system 1:43.01elapsed 6%CPU (0avgtext+0avgdata 61100maxresident)k
+0inputs+32outputs (0major+16866minor)pagefaults 0swaps
+6.32user 0.11system 1:53.39elapsed 5%CPU (0avgtext+0avgdata 58132maxresident)k
+0inputs+32outputs (0major+17051minor)pagefaults 0swaps
+5.88user 0.13system 1:54.95elapsed 5%CPU (0avgtext+0avgdata 61176maxresident)k
+0inputs+32outputs (0major+16876minor)pagefaults 0swaps
+6.61user 0.10system 1:26.27elapsed 7%CPU (0avgtext+0avgdata 61512maxresident)k
+0inputs+32outputs (0major+16846minor)pagefaults 0swaps
+6.44user 0.12system 1:28.62elapsed 7%CPU (0avgtext+0avgdata 59004maxresident)k
+0inputs+32outputs (0major+16495minor)pagefaults 0swaps
+5.96user 0.12system 1:28.92elapsed 6%CPU (0avgtext+0avgdata 61408maxresident)k
+0inputs+32outputs (0major+16193minor)pagefaults 0swaps
+6.52user 0.19system 1:30.05elapsed 7%CPU (0avgtext+0avgdata 58428maxresident)k
+0inputs+32outputs (0major+16691minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2011 1 10 > ../logs/scrape_data_v6_2011_1_10.log &
+nohup time python -u scrape_data_v6.py 2011 11 20 > ../logs/scrape_data_v6_2011_11_20.log &
+nohup time python -u scrape_data_v6.py 2011 21 30 > ../logs/scrape_data_v6_2011_21_30.log &
+nohup time python -u scrape_data_v6.py 2011 31 40 > ../logs/scrape_data_v6_2011_31_40.log &
+nohup time python -u scrape_data_v6.py 2011 41 50 > ../logs/scrape_data_v6_2011_41_50.log &
+nohup time python -u scrape_data_v6.py 2011 51 60 > ../logs/scrape_data_v6_2011_51_60.log &
+nohup time python -u scrape_data_v6.py 2011 61 70 > ../logs/scrape_data_v6_2011_61_70.log &
+nohup time python -u scrape_data_v6.py 2011 71 80 > ../logs/scrape_data_v6_2011_71_80.log &
+nohup time python -u scrape_data_v6.py 2011 81 90 > ../logs/scrape_data_v6_2011_81_90.log &
+nohup time python -u scrape_data_v6.py 2011 91 100 > ../logs/scrape_data_v6_2011_91_100.log &
+nohup time python -u scrape_data_v6.py 2011 101 110 > ../logs/scrape_data_v6_2011_101_110.log &
+nohup time python -u scrape_data_v6.py 2011 111 120 > ../logs/scrape_data_v6_2011_111_120.log &
+nohup time python -u scrape_data_v6.py 2011 121 130 > ../logs/scrape_data_v6_2011_121_130.log &
+nohup time python -u scrape_data_v6.py 2011 131 140 > ../logs/scrape_data_v6_2011_131_140.log &
+nohup time python -u scrape_data_v6.py 2011 141 150 > ../logs/scrape_data_v6_2011_141_150.log &
+nohup time python -u scrape_data_v6.py 2011 151 160 > ../logs/scrape_data_v6_2011_151_160.log &
+nohup time python -u scrape_data_v6.py 2011 161 170 > ../logs/scrape_data_v6_2011_161_170.log &
+nohup time python -u scrape_data_v6.py 2011 171 180 > ../logs/scrape_data_v6_2011_171_180.log &
+nohup time python -u scrape_data_v6.py 2011 181 190 > ../logs/scrape_data_v6_2011_181_190.log &
+6.75user 0.11system 1:32.62elapsed 7%CPU (0avgtext+0avgdata 54564maxresident)k
+0inputs+32outputs (0major+15170minor)pagefaults 0swaps
+6.46user 0.14system 1:32.63elapsed 7%CPU (0avgtext+0avgdata 63332maxresident)k
+0inputs+32outputs (0major+17702minor)pagefaults 0swaps
+6.55user 0.16system 1:32.93elapsed 7%CPU (0avgtext+0avgdata 56580maxresident)k
+0inputs+32outputs (0major+15736minor)pagefaults 0swaps
+6.28user 0.18system 1:32.94elapsed 6%CPU (0avgtext+0avgdata 63468maxresident)k
+0inputs+32outputs (0major+17439minor)pagefaults 0swaps
+5.98user 0.16system 1:32.84elapsed 6%CPU (0avgtext+0avgdata 63056maxresident)k
+0inputs+32outputs (0major+16884minor)pagefaults 0swaps
+6.52user 0.16system 1:32.98elapsed 7%CPU (0avgtext+0avgdata 58128maxresident)k
+0inputs+32outputs (0major+16543minor)pagefaults 0swaps
+6.36user 0.19system 1:35.44elapsed 6%CPU (0avgtext+0avgdata 63392maxresident)k
+0inputs+32outputs (0major+17586minor)pagefaults 0swaps
+6.60user 0.17system 1:35.47elapsed 7%CPU (0avgtext+0avgdata 63228maxresident)k
+0inputs+32outputs (0major+16776minor)pagefaults 0swaps
+6.77user 0.15system 1:36.12elapsed 7%CPU (0avgtext+0avgdata 63740maxresident)k
+0inputs+32outputs (0major+17546minor)pagefaults 0swaps
+6.96user 0.18system 1:36.33elapsed 7%CPU (0avgtext+0avgdata 59520maxresident)k
+0inputs+32outputs (0major+17070minor)pagefaults 0swaps
+6.79user 0.12system 1:36.59elapsed 7%CPU (0avgtext+0avgdata 57124maxresident)k
+0inputs+32outputs (0major+16028minor)pagefaults 0swaps
+6.64user 0.18system 1:37.18elapsed 7%CPU (0avgtext+0avgdata 63384maxresident)k
+0inputs+32outputs (0major+17158minor)pagefaults 0swaps
+6.50user 0.18system 1:40.58elapsed 6%CPU (0avgtext+0avgdata 61476maxresident)k
+0inputs+32outputs (0major+17032minor)pagefaults 0swaps
+7.55user 0.16system 1:43.38elapsed 7%CPU (0avgtext+0avgdata 62332maxresident)k
+0inputs+40outputs (0major+17697minor)pagefaults 0swaps
+7.32user 0.17system 1:45.72elapsed 7%CPU (0avgtext+0avgdata 63424maxresident)k
+0inputs+32outputs (0major+17247minor)pagefaults 0swaps
+6.28user 0.10system 1:25.69elapsed 7%CPU (0avgtext+0avgdata 59160maxresident)k
+0inputs+40outputs (0major+15709minor)pagefaults 0swaps
+6.30user 0.10system 1:28.44elapsed 7%CPU (0avgtext+0avgdata 61584maxresident)k
+0inputs+40outputs (0major+17231minor)pagefaults 0swaps
+6.34user 0.10system 1:28.72elapsed 7%CPU (0avgtext+0avgdata 63636maxresident)k
+0inputs+40outputs (0major+16829minor)pagefaults 0swaps
+6.10user 0.06system 1:28.86elapsed 6%CPU (0avgtext+0avgdata 63624maxresident)k
+0inputs+40outputs (0major+16984minor)pagefaults 0swaps
+6.06user 0.13system 1:28.93elapsed 6%CPU (0avgtext+0avgdata 63512maxresident)k
+0inputs+40outputs (0major+17098minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2012 1 10 > ../logs/scrape_data_v6_2012_1_10.log &
+nohup time python -u scrape_data_v6.py 2012 11 20 > ../logs/scrape_data_v6_2012_11_20.log &
+nohup time python -u scrape_data_v6.py 2012 21 30 > ../logs/scrape_data_v6_2012_21_30.log &
+nohup time python -u scrape_data_v6.py 2012 31 40 > ../logs/scrape_data_v6_2012_31_40.log &
+nohup time python -u scrape_data_v6.py 2012 41 50 > ../logs/scrape_data_v6_2012_41_50.log &
+nohup time python -u scrape_data_v6.py 2012 51 60 > ../logs/scrape_data_v6_2012_51_60.log &
+nohup time python -u scrape_data_v6.py 2012 61 70 > ../logs/scrape_data_v6_2012_61_70.log &
+nohup time python -u scrape_data_v6.py 2012 71 80 > ../logs/scrape_data_v6_2012_71_80.log &
+nohup time python -u scrape_data_v6.py 2012 81 90 > ../logs/scrape_data_v6_2012_81_90.log &
+nohup time python -u scrape_data_v6.py 2012 91 100 > ../logs/scrape_data_v6_2012_91_100.log &
+nohup time python -u scrape_data_v6.py 2012 101 110 > ../logs/scrape_data_v6_2012_101_110.log &
+nohup time python -u scrape_data_v6.py 2012 111 120 > ../logs/scrape_data_v6_2012_111_120.log &
+nohup time python -u scrape_data_v6.py 2012 121 130 > ../logs/scrape_data_v6_2012_121_130.log &
+nohup time python -u scrape_data_v6.py 2012 131 140 > ../logs/scrape_data_v6_2012_131_140.log &
+nohup time python -u scrape_data_v6.py 2012 141 150 > ../logs/scrape_data_v6_2012_141_150.log &
+nohup time python -u scrape_data_v6.py 2012 151 160 > ../logs/scrape_data_v6_2012_151_160.log &
+nohup time python -u scrape_data_v6.py 2012 161 170 > ../logs/scrape_data_v6_2012_161_170.log &
+nohup time python -u scrape_data_v6.py 2012 171 180 > ../logs/scrape_data_v6_2012_171_180.log &
+nohup time python -u scrape_data_v6.py 2012 181 190 > ../logs/scrape_data_v6_2012_181_190.log &
+6.51user 0.12system 1:32.19elapsed 7%CPU (0avgtext+0avgdata 58160maxresident)k
+0inputs+40outputs (0major+16479minor)pagefaults 0swaps
+6.20user 0.14system 1:32.32elapsed 6%CPU (0avgtext+0avgdata 63344maxresident)k
+0inputs+40outputs (0major+16896minor)pagefaults 0swaps
+6.37user 0.13system 1:34.38elapsed 6%CPU (0avgtext+0avgdata 61576maxresident)k
+0inputs+40outputs (0major+17020minor)pagefaults 0swaps
+6.56user 0.17system 1:34.71elapsed 7%CPU (0avgtext+0avgdata 62200maxresident)k
+0inputs+48outputs (0major+17737minor)pagefaults 0swaps
+6.75user 0.17system 1:34.84elapsed 7%CPU (0avgtext+0avgdata 61404maxresident)k
+0inputs+40outputs (0major+17440minor)pagefaults 0swaps
+6.68user 0.08system 1:35.14elapsed 7%CPU (0avgtext+0avgdata 61072maxresident)k
+0inputs+40outputs (0major+17132minor)pagefaults 0swaps
+6.20user 0.14system 1:35.71elapsed 6%CPU (0avgtext+0avgdata 58652maxresident)k
+0inputs+40outputs (0major+16588minor)pagefaults 0swaps
+6.59user 0.17system 1:36.15elapsed 7%CPU (0avgtext+0avgdata 63368maxresident)k
+0inputs+40outputs (0major+17361minor)pagefaults 0swaps
+6.83user 0.13system 1:36.38elapsed 7%CPU (0avgtext+0avgdata 61368maxresident)k
+0inputs+40outputs (0major+16992minor)pagefaults 0swaps
+6.96user 0.10system 1:38.57elapsed 7%CPU (0avgtext+0avgdata 54532maxresident)k
+0inputs+48outputs (0major+15334minor)pagefaults 0swaps
+6.51user 0.16system 1:39.42elapsed 6%CPU (0avgtext+0avgdata 59496maxresident)k
+0inputs+40outputs (0major+16837minor)pagefaults 0swaps
+6.38user 0.15system 1:40.82elapsed 6%CPU (0avgtext+0avgdata 62460maxresident)k
+0inputs+40outputs (0major+17365minor)pagefaults 0swaps
+6.64user 0.09system 1:42.01elapsed 6%CPU (0avgtext+0avgdata 62180maxresident)k
+0inputs+40outputs (0major+16632minor)pagefaults 0swaps
+6.74user 0.16system 1:42.15elapsed 6%CPU (0avgtext+0avgdata 62592maxresident)k
+0inputs+40outputs (0major+16353minor)pagefaults 0swaps
+6.65user 0.10system 1:26.28elapsed 7%CPU (0avgtext+0avgdata 59408maxresident)k
+0inputs+32outputs (0major+16653minor)pagefaults 0swaps
+6.93user 0.14system 1:27.41elapsed 8%CPU (0avgtext+0avgdata 63476maxresident)k
+0inputs+32outputs (0major+16911minor)pagefaults 0swaps
+7.21user 0.14system 1:27.56elapsed 8%CPU (0avgtext+0avgdata 62004maxresident)k
+0inputs+32outputs (0major+16624minor)pagefaults 0swaps
+7.42user 0.14system 1:29.85elapsed 8%CPU (0avgtext+0avgdata 62684maxresident)k
+0inputs+32outputs (0major+18157minor)pagefaults 0swaps
+7.14user 0.11system 1:29.82elapsed 8%CPU (0avgtext+0avgdata 61916maxresident)k
+0inputs+32outputs (0major+16701minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2013 1 10 > ../logs/scrape_data_v6_2013_1_10.log &
+nohup time python -u scrape_data_v6.py 2013 11 20 > ../logs/scrape_data_v6_2013_11_20.log &
+nohup time python -u scrape_data_v6.py 2013 21 30 > ../logs/scrape_data_v6_2013_21_30.log &
+nohup time python -u scrape_data_v6.py 2013 31 40 > ../logs/scrape_data_v6_2013_31_40.log &
+nohup time python -u scrape_data_v6.py 2013 41 50 > ../logs/scrape_data_v6_2013_41_50.log &
+nohup time python -u scrape_data_v6.py 2013 51 60 > ../logs/scrape_data_v6_2013_51_60.log &
+nohup time python -u scrape_data_v6.py 2013 61 70 > ../logs/scrape_data_v6_2013_61_70.log &
+nohup time python -u scrape_data_v6.py 2013 71 80 > ../logs/scrape_data_v6_2013_71_80.log &
+nohup time python -u scrape_data_v6.py 2013 81 90 > ../logs/scrape_data_v6_2013_81_90.log &
+nohup time python -u scrape_data_v6.py 2013 91 100 > ../logs/scrape_data_v6_2013_91_100.log &
+nohup time python -u scrape_data_v6.py 2013 101 110 > ../logs/scrape_data_v6_2013_101_110.log &
+nohup time python -u scrape_data_v6.py 2013 111 120 > ../logs/scrape_data_v6_2013_111_120.log &
+nohup time python -u scrape_data_v6.py 2013 121 130 > ../logs/scrape_data_v6_2013_121_130.log &
+nohup time python -u scrape_data_v6.py 2013 131 140 > ../logs/scrape_data_v6_2013_131_140.log &
+nohup time python -u scrape_data_v6.py 2013 141 150 > ../logs/scrape_data_v6_2013_141_150.log &
+nohup time python -u scrape_data_v6.py 2013 151 160 > ../logs/scrape_data_v6_2013_151_160.log &
+nohup time python -u scrape_data_v6.py 2013 161 170 > ../logs/scrape_data_v6_2013_161_170.log &
+nohup time python -u scrape_data_v6.py 2013 171 180 > ../logs/scrape_data_v6_2013_171_180.log &
+nohup time python -u scrape_data_v6.py 2013 181 190 > ../logs/scrape_data_v6_2013_181_190.log &
+7.32user 0.13system 1:32.61elapsed 8%CPU (0avgtext+0avgdata 63476maxresident)k
+0inputs+32outputs (0major+17078minor)pagefaults 0swaps
+7.20user 0.16system 1:32.78elapsed 7%CPU (0avgtext+0avgdata 63284maxresident)k
+0inputs+32outputs (0major+16517minor)pagefaults 0swaps
+7.17user 0.12system 1:35.18elapsed 7%CPU (0avgtext+0avgdata 63724maxresident)k
+0inputs+32outputs (0major+17831minor)pagefaults 0swaps
+7.84user 0.16system 1:35.96elapsed 8%CPU (0avgtext+0avgdata 65360maxresident)k
+0inputs+40outputs (0major+18671minor)pagefaults 0swaps
+7.69user 0.16system 1:36.24elapsed 8%CPU (0avgtext+0avgdata 63224maxresident)k
+0inputs+32outputs (0major+17477minor)pagefaults 0swaps
+7.80user 0.12system 1:37.32elapsed 8%CPU (0avgtext+0avgdata 61512maxresident)k
+0inputs+32outputs (0major+17248minor)pagefaults 0swaps
+7.16user 0.13system 1:37.20elapsed 7%CPU (0avgtext+0avgdata 61572maxresident)k
+0inputs+32outputs (0major+16668minor)pagefaults 0swaps
+7.08user 0.17system 1:37.49elapsed 7%CPU (0avgtext+0avgdata 62252maxresident)k
+0inputs+40outputs (0major+20629minor)pagefaults 0swaps
+6.78user 0.15system 1:37.34elapsed 7%CPU (0avgtext+0avgdata 63564maxresident)k
+0inputs+32outputs (0major+16509minor)pagefaults 0swaps
+7.88user 0.22system 1:37.89elapsed 8%CPU (0avgtext+0avgdata 59168maxresident)k
+0inputs+32outputs (0major+17082minor)pagefaults 0swaps
+8.32user 0.15system 1:39.39elapsed 8%CPU (0avgtext+0avgdata 61280maxresident)k
+0inputs+32outputs (0major+17304minor)pagefaults 0swaps
+7.74user 0.08system 1:39.99elapsed 7%CPU (0avgtext+0avgdata 63320maxresident)k
+0inputs+32outputs (0major+17374minor)pagefaults 0swaps
+8.14user 0.12system 1:40.23elapsed 8%CPU (0avgtext+0avgdata 63416maxresident)k
+0inputs+32outputs (0major+17376minor)pagefaults 0swaps
+7.74user 0.18system 1:40.15elapsed 7%CPU (0avgtext+0avgdata 63668maxresident)k
+0inputs+32outputs (0major+16774minor)pagefaults 0swaps
+6.78user 0.18system 1:23.71elapsed 8%CPU (0avgtext+0avgdata 58520maxresident)k
+0inputs+32outputs (0major+23304minor)pagefaults 0swaps
+6.62user 0.12system 1:25.78elapsed 7%CPU (0avgtext+0avgdata 61244maxresident)k
+0inputs+32outputs (0major+16964minor)pagefaults 0swaps
+5.70user 0.13system 1:26.41elapsed 6%CPU (0avgtext+0avgdata 57168maxresident)k
+0inputs+32outputs (0major+15151minor)pagefaults 0swaps
+6.51user 0.11system 1:28.61elapsed 7%CPU (0avgtext+0avgdata 63336maxresident)k
+0inputs+32outputs (0major+16565minor)pagefaults 0swaps
+5.87user 0.19system 1:29.19elapsed 6%CPU (0avgtext+0avgdata 63720maxresident)k
+0inputs+32outputs (0major+17083minor)pagefaults 0swaps
+6.25user 0.16system 1:29.51elapsed 7%CPU (0avgtext+0avgdata 63800maxresident)k
+0inputs+32outputs (0major+16762minor)pagefaults 0swaps
+6.71user 0.12system 1:29.75elapsed 7%CPU (0avgtext+0avgdata 58212maxresident)k
+0inputs+32outputs (0major+16301minor)pagefaults 0swaps
+6.20user 0.12system 1:29.70elapsed 7%CPU (0avgtext+0avgdata 63620maxresident)k
+0inputs+32outputs (0major+16888minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2014 1 10 > ../logs/scrape_data_v6_2014_1_10.log &
+nohup time python -u scrape_data_v6.py 2014 11 20 > ../logs/scrape_data_v6_2014_11_20.log &
+nohup time python -u scrape_data_v6.py 2014 21 30 > ../logs/scrape_data_v6_2014_21_30.log &
+nohup time python -u scrape_data_v6.py 2014 31 40 > ../logs/scrape_data_v6_2014_31_40.log &
+nohup time python -u scrape_data_v6.py 2014 41 50 > ../logs/scrape_data_v6_2014_41_50.log &
+nohup time python -u scrape_data_v6.py 2014 51 60 > ../logs/scrape_data_v6_2014_51_60.log &
+nohup time python -u scrape_data_v6.py 2014 61 70 > ../logs/scrape_data_v6_2014_61_70.log &
+6.40user 0.12system 1:30.21elapsed 7%CPU (0avgtext+0avgdata 63620maxresident)k
+0inputs+32outputs (0major+17344minor)pagefaults 0swaps
+nohup time python -u scrape_data_v6.py 2014 71 80 > ../logs/scrape_data_v6_2014_71_80.log &
+nohup time python -u scrape_data_v6.py 2014 81 90 > ../logs/scrape_data_v6_2014_81_90.log &
+nohup time python -u scrape_data_v6.py 2014 91 100 > ../logs/scrape_data_v6_2014_91_100.log &
+nohup time python -u scrape_data_v6.py 2014 101 110 > ../logs/scrape_data_v6_2014_101_110.log &
+nohup time python -u scrape_data_v6.py 2014 111 120 > ../logs/scrape_data_v6_2014_111_120.log &
+nohup time python -u scrape_data_v6.py 2014 121 130 > ../logs/scrape_data_v6_2014_121_130.log &
+nohup time python -u scrape_data_v6.py 2014 131 140 > ../logs/scrape_data_v6_2014_131_140.log &
+nohup time python -u scrape_data_v6.py 2014 141 150 > ../logs/scrape_data_v6_2014_141_150.log &
+nohup time python -u scrape_data_v6.py 2014 151 160 > ../logs/scrape_data_v6_2014_151_160.log &
+nohup time python -u scrape_data_v6.py 2014 161 170 > ../logs/scrape_data_v6_2014_161_170.log &
+nohup time python -u scrape_data_v6.py 2014 171 180 > ../logs/scrape_data_v6_2014_171_180.log &
+nohup time python -u scrape_data_v6.py 2014 181 190 > ../logs/scrape_data_v6_2014_181_190.log &
+6.85user 0.19system 1:31.92elapsed 7%CPU (0avgtext+0avgdata 63364maxresident)k
+0inputs+32outputs (0major+17514minor)pagefaults 0swaps
+6.16user 0.15system 1:32.01elapsed 6%CPU (0avgtext+0avgdata 63284maxresident)k
+0inputs+32outputs (0major+17580minor)pagefaults 0swaps
+6.84user 0.12system 1:32.18elapsed 7%CPU (0avgtext+0avgdata 62644maxresident)k
+0inputs+40outputs (0major+17379minor)pagefaults 0swaps
+6.73user 0.13system 1:32.01elapsed 7%CPU (0avgtext+0avgdata 59088maxresident)k
+0inputs+32outputs (0major+16247minor)pagefaults 0swaps
+7.04user 0.12system 1:32.68elapsed 7%CPU (0avgtext+0avgdata 61552maxresident)k
+0inputs+32outputs (0major+17287minor)pagefaults 0swaps
+7.02user 0.11system 1:33.07elapsed 7%CPU (0avgtext+0avgdata 58760maxresident)k
+0inputs+32outputs (0major+16889minor)pagefaults 0swaps
+7.05user 0.17system 1:34.54elapsed 7%CPU (0avgtext+0avgdata 63472maxresident)k
+0inputs+32outputs (0major+17443minor)pagefaults 0swaps
+6.67user 0.17system 1:35.01elapsed 7%CPU (0avgtext+0avgdata 63528maxresident)k
+0inputs+32outputs (0major+16542minor)pagefaults 0swaps
+6.84user 0.14system 1:35.43elapsed 7%CPU (0avgtext+0avgdata 62640maxresident)k
+0inputs+32outputs (0major+17242minor)pagefaults 0swaps
+6.29user 0.16system 1:47.68elapsed 5%CPU (0avgtext+0avgdata 53660maxresident)k
+0inputs+32outputs (0major+15128minor)pagefaults 0swaps
+7.08user 0.18system 1:23.83elapsed 8%CPU (0avgtext+0avgdata 60104maxresident)k
+0inputs+32outputs (0major+16636minor)pagefaults 0swaps
+7.06user 0.13system 1:26.03elapsed 8%CPU (0avgtext+0avgdata 61796maxresident)k
+0inputs+32outputs (0major+17016minor)pagefaults 0swaps
+6.75user 0.12system 1:27.53elapsed 7%CPU (0avgtext+0avgdata 63604maxresident)k
+0inputs+32outputs (0major+16857minor)pagefaults 0swaps
+7.05user 0.16system 1:27.51elapsed 8%CPU (0avgtext+0avgdata 63772maxresident)k
+0inputs+32outputs (0major+16967minor)pagefaults 0swaps
+7.14user 0.12system 1:27.81elapsed 8%CPU (0avgtext+0avgdata 63476maxresident)k
+0inputs+32outputs (0major+17190minor)pagefaults 0swaps
+7.28user 0.19system 1:29.22elapsed 8%CPU (0avgtext+0avgdata 63796maxresident)k
+0inputs+32outputs (0major+16798minor)pagefaults 0swaps
+done
+nohup time python -u scrape_data_v6.py 2015 1 10 > ../logs/scrape_data_v6_2015_1_10.log &
+nohup time python -u scrape_data_v6.py 2015 11 20 > ../logs/scrape_data_v6_2015_11_20.log &
+nohup time python -u scrape_data_v6.py 2015 21 30 > ../logs/scrape_data_v6_2015_21_30.log &
+nohup time python -u scrape_data_v6.py 2015 31 40 > ../logs/scrape_data_v6_2015_31_40.log &
+nohup time python -u scrape_data_v6.py 2015 41 50 > ../logs/scrape_data_v6_2015_41_50.log &
+nohup time python -u scrape_data_v6.py 2015 51 60 > ../logs/scrape_data_v6_2015_51_60.log &
+nohup time python -u scrape_data_v6.py 2015 61 70 > ../logs/scrape_data_v6_2015_61_70.log &
+nohup time python -u scrape_data_v6.py 2015 71 80 > ../logs/scrape_data_v6_2015_71_80.log &
+nohup time python -u scrape_data_v6.py 2015 81 90 > ../logs/scrape_data_v6_2015_81_90.log &
+nohup time python -u scrape_data_v6.py 2015 91 100 > ../logs/scrape_data_v6_2015_91_100.log &
+nohup time python -u scrape_data_v6.py 2015 101 110 > ../logs/scrape_data_v6_2015_101_110.log &
+nohup time python -u scrape_data_v6.py 2015 111 120 > ../logs/scrape_data_v6_2015_111_120.log &
+nohup time python -u scrape_data_v6.py 2015 121 130 > ../logs/scrape_data_v6_2015_121_130.log &
+nohup time python -u scrape_data_v6.py 2015 131 140 > ../logs/scrape_data_v6_2015_131_140.log &
+nohup time python -u scrape_data_v6.py 2015 141 150 > ../logs/scrape_data_v6_2015_141_150.log &
+nohup time python -u scrape_data_v6.py 2015 151 160 > ../logs/scrape_data_v6_2015_151_160.log &
+nohup time python -u scrape_data_v6.py 2015 161 170 > ../logs/scrape_data_v6_2015_161_170.log &
+nohup time python -u scrape_data_v6.py 2015 171 180 > ../logs/scrape_data_v6_2015_171_180.log &
+nohup time python -u scrape_data_v6.py 2015 181 190 > ../logs/scrape_data_v6_2015_181_190.log &
+7.70user 0.14system 1:32.73elapsed 8%CPU (0avgtext+0avgdata 59436maxresident)k
+0inputs+40outputs (0major+16772minor)pagefaults 0swaps
+7.41user 0.12system 1:32.83elapsed 8%CPU (0avgtext+0avgdata 57364maxresident)k
+0inputs+40outputs (0major+16280minor)pagefaults 0swaps
+7.22user 0.18system 1:32.95elapsed 7%CPU (0avgtext+0avgdata 62404maxresident)k
+0inputs+40outputs (0major+17737minor)pagefaults 0swaps
+6.75user 0.14system 1:32.83elapsed 7%CPU (0avgtext+0avgdata 62148maxresident)k
+0inputs+32outputs (0major+17194minor)pagefaults 0swaps
+7.12user 0.17system 1:35.26elapsed 7%CPU (0avgtext+0avgdata 60444maxresident)k
+0inputs+32outputs (0major+16917minor)pagefaults 0swaps
+7.40user 0.16system 1:35.49elapsed 7%CPU (0avgtext+0avgdata 63396maxresident)k
+0inputs+32outputs (0major+17044minor)pagefaults 0swaps
+7.46user 0.20system 1:35.79elapsed 8%CPU (0avgtext+0avgdata 63868maxresident)k
+0inputs+32outputs (0major+17111minor)pagefaults 0swaps
+7.32user 0.16system 1:35.90elapsed 7%CPU (0avgtext+0avgdata 63632maxresident)k
+0inputs+32outputs (0major+16756minor)pagefaults 0swaps
+7.54user 0.15system 1:35.96elapsed 8%CPU (0avgtext+0avgdata 64016maxresident)k
+0inputs+32outputs (0major+17109minor)pagefaults 0swaps
+7.38user 0.19system 1:37.26elapsed 7%CPU (0avgtext+0avgdata 63568maxresident)k
+0inputs+32outputs (0major+25054minor)pagefaults 0swaps
+7.37user 0.14system 1:37.88elapsed 7%CPU (0avgtext+0avgdata 61844maxresident)k
+0inputs+32outputs (0major+16980minor)pagefaults 0swaps
+7.19user 0.15system 1:40.21elapsed 7%CPU (0avgtext+0avgdata 60208maxresident)k
+0inputs+32outputs (0major+16893minor)pagefaults 0swaps
+done
+22.40user 0.80system 3:17.35elapsed 11%CPU (0avgtext+0avgdata 63676maxresident)k
+0inputs+32outputs (0major+16758minor)pagefaults 0swaps
+19.14user 0.48system 2:50.95elapsed 11%CPU (0avgtext+0avgdata 59392maxresident)k
+0inputs+32outputs (0major+15680minor)pagefaults 0swaps
+20.01user 0.59system 2:51.93elapsed 11%CPU (0avgtext+0avgdata 58920maxresident)k
+0inputs+32outputs (0major+15870minor)pagefaults 0swaps
+21.04user 0.60system 2:52.41elapsed 12%CPU (0avgtext+0avgdata 58452maxresident)k
+0inputs+32outputs (0major+16909minor)pagefaults 0swaps
+21.91user 0.66system 2:53.21elapsed 13%CPU (0avgtext+0avgdata 60792maxresident)k
+0inputs+32outputs (0major+16656minor)pagefaults 0swaps
+21.59user 0.66system 2:55.54elapsed 12%CPU (0avgtext+0avgdata 60860maxresident)k
+0inputs+32outputs (0major+16332minor)pagefaults 0swaps
+19.78user 0.64system 2:55.54elapsed 11%CPU (0avgtext+0avgdata 57412maxresident)k
+0inputs+32outputs (0major+16219minor)pagefaults 0swaps
+21.38user 0.51system 2:56.80elapsed 12%CPU (0avgtext+0avgdata 61356maxresident)k
+0inputs+32outputs (0major+16731minor)pagefaults 0swaps
+22.30user 0.80system 2:59.39elapsed 12%CPU (0avgtext+0avgdata 57260maxresident)k
+0inputs+32outputs (0major+16105minor)pagefaults 0swaps
+20.56user 0.60system 3:00.38elapsed 11%CPU (0avgtext+0avgdata 58060maxresident)k
+0inputs+40outputs (0major+17111minor)pagefaults 0swaps
+22.08user 0.66system 3:00.59elapsed 12%CPU (0avgtext+0avgdata 57828maxresident)k
+0inputs+32outputs (0major+16131minor)pagefaults 0swaps
+21.12user 0.54system 3:00.46elapsed 12%CPU (0avgtext+0avgdata 60864maxresident)k
+0inputs+32outputs (0major+16643minor)pagefaults 0swaps
+21.68user 0.74system 3:01.26elapsed 12%CPU (0avgtext+0avgdata 58328maxresident)k
+0inputs+32outputs (0major+19088minor)pagefaults 0swaps
+22.07user 0.75system 3:02.29elapsed 12%CPU (0avgtext+0avgdata 58044maxresident)k
+0inputs+32outputs (0major+16319minor)pagefaults 0swaps
+20.63user 0.68system 3:03.01elapsed 11%CPU (0avgtext+0avgdata 61920maxresident)k
+8inputs+40outputs (1major+16964minor)pagefaults 0swaps
+21.66user 0.67system 3:04.29elapsed 12%CPU (0avgtext+0avgdata 55960maxresident)k
+0inputs+40outputs (0major+15714minor)pagefaults 0swaps
+17.47user 0.63system 3:06.40elapsed 9%CPU (0avgtext+0avgdata 61544maxresident)k
+32inputs+40outputs (1major+17092minor)pagefaults 0swaps
+13.85user 0.44system 3:19.07elapsed 7%CPU (0avgtext+0avgdata 61568maxresident)k
+0inputs+32outputs (0major+16615minor)pagefaults 0swaps
+15.94user 0.56system 3:22.35elapsed 8%CPU (0avgtext+0avgdata 61616maxresident)k
+1064inputs+32outputs (1major+16468minor)pagefaults 0swaps
+10.56user 0.47system 4:09.61elapsed 4%CPU (0avgtext+0avgdata 61164maxresident)k
+0inputs+32outputs (0major+17111minor)pagefaults 0swaps
